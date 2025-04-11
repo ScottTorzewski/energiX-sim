@@ -36,6 +36,11 @@ Visual dashboard comparing:
 
 ---
 
+![EnergiX Flow Diagram](data/diagram2.png)
+
+---
+
 ## 🔄 How to Run
 ```bash
 streamlit run dashboard/dashboard_app.py
+
