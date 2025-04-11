@@ -41,6 +41,10 @@ Visual dashboard comparing:
 ---
 
 ## 🔄 How to Run
+### Requirements
+- Python 3.10+
+- Recommended to install using `venv` and `pip install -r requirements.txt`
+
 Open a new terminal:
 ```bash
 git clone https://github.com/ScottTorzewski/energiX-sim.git
