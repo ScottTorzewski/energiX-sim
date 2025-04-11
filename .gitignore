@@ -1,0 +1,17 @@
+# Ignore virtual environment
+.venv/
+
+# Ignore build artifacts
+*.pyc
+__pycache__/
+*.vcd
+*.log
+*.jou
+*.wdb
+
+# Ignore Vivado output folders 
+.vivado/
+*.runs/
+*.cache/
+*.Xil/
+.venv/
