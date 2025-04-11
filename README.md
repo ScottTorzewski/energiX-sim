@@ -41,6 +41,12 @@ Visual dashboard comparing:
 ---
 
 ## 🔄 How to Run
+Open a new terminal:
 ```bash
+git clone https://github.com/ScottTorzewski/energiX-sim.git
+cd energiX-sim
+python -m venv .venv
+.venv\Scripts\activate
+pip install -r requirements.txt
 streamlit run dashboard/dashboard_app.py
 
