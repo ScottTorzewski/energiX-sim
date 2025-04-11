@@ -6,9 +6,18 @@ import matplotlib.pyplot as plt
 st.set_page_config(page_title="EnergiX Inference Comparison", layout="wide")
 st.title("📊 EnergiX: ML vs FPGA Inference Comparison")
 
+# General Project Summary
+st.markdown("""
+**EnergiX Sim: Smart Industrial Monitoring & Risk Assessment**  
+I generate data from 20 simulated nodes representing sensors deployed across an industrial facility. 
+These nodes collect parameters like temperature, vibration, and power usage to mimic real-time monitoring of critical equipment. 
+The data is analyzed using machine learning to detect anomalies, assess risk levels, and support smarter decision-making. 
+This dashboard visualizes both software-based and hardware-accelerated inference results and offers a side-by-side view of how intelligent systems can optimize safety, efficiency, and maintenance in industrial environments.
+""")
+
 # Load Data
-ml_file = "dashboard/ml_results.json"
-fpga_file = "dashboard/results.txt"
+ml_file = "ml_results.json"
+fpga_file = "results.txt"
 
 @st.cache_data
 def load_data():
