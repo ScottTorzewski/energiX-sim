@@ -1,12 +1,12 @@
 # EnergiX Sim Suite 🚀
 
-**A full-stack, PC-simulated smart energy inference system that compares Python ML and FPGA-based decision tree logic.**
+**A full-stack, PC-simulated smart energy inference system that compares Software-based ML inference (Python) and Hardware-based ML inference (FPGA-based decision tree logic).**
 
 ---
 
 ## 🧭 System Overview
 
-![EnergiX Flow Diagram](analysis/diagram.png)
+![EnergiX Flow Diagram](data/diagram.png)
 
 ---
 
@@ -21,7 +21,7 @@
 
 ## 🔧 Technologies
 - SystemVerilog (Vivado)
-- Python (pandas, scikit-learn)
+- Python (Pandas, NumPy, scikit-learn)
 - Streamlit
 - Matplotlib
 - JSON/CSV data pipelines
