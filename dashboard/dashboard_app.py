@@ -7,8 +7,8 @@ st.set_page_config(page_title="EnergiX Inference Comparison", layout="wide")
 st.title("📊 EnergiX: ML vs FPGA Inference Comparison")
 
 # Load Data
-ml_file = "ml_results.json"
-fpga_file = "results.txt"
+ml_file = "dashboard/ml_results.json"
+fpga_file = "dashboard/results.txt"
 
 @st.cache_data
 def load_data():
