@@ -1,0 +1,4667 @@
+[
+  {
+    "timestamp": "2025-04-08T23:58:03.232199",
+    "node_id": 1,
+    "alerts": [
+      "\ud83d\udd27 Abnormal vibration (avg)"
+    ],
+    "rolling_avg_vibration": 0.924,
+    "raw": {
+      "timestamp": "2025-04-08T23:58:03.232199",
+      "node_id": 1,
+      "temperature": 35.27,
+      "vibration": 0.924,
+      "power_draw": 67.38,
+      "humidity": 40.52,
+      "airflow": 0.77,
+      "fan_speed": 3170.6,
+      "node_status": "critical"
+    }
+  },
+  {
+    "timestamp": "2025-04-08T23:58:03.232199",
+    "node_id": 2,
+    "alerts": [
+      "\ud83d\udd27 Abnormal vibration (avg)"
+    ],
+    "rolling_avg_vibration": 0.851,
+    "raw": {
+      "timestamp": "2025-04-08T23:58:03.232199",
+      "node_id": 2,
+      "temperature": 61.29,
+      "vibration": 0.851,
+      "power_draw": 49.09,
+      "humidity": 58.3,
+      "airflow": 0.49,
+      "fan_speed": 2961.4,
+      "node_status": "critical"
+    }
+  },
+  {
+    "timestamp": "2025-04-08T23:58:03.232199",
+    "node_id": 7,
+    "alerts": [
+      "\ud83d\udd27 Abnormal vibration (avg)"
+    ],
+    "rolling_avg_vibration": 0.935,
+    "raw": {
+      "timestamp": "2025-04-08T23:58:03.232199",
+      "node_id": 7,
+      "temperature": 59.56,
+      "vibration": 0.935,
+      "power_draw": 70.24,
+      "humidity": 71.05,
+      "airflow": 0.36,
+      "fan_speed": 3447.7,
+      "node_status": "maintenance"
+    }
+  },
+  {
+    "timestamp": "2025-04-08T23:58:03.232199",
+    "node_id": 11,
+    "alerts": [
+      "\u26a1 High power draw",
+      "\ud83d\udd27 Abnormal vibration (avg)"
+    ],
+    "rolling_avg_vibration": 0.828,
+    "raw": {
+      "timestamp": "2025-04-08T23:58:03.232199",
+      "node_id": 11,
+      "temperature": 52.27,
+      "vibration": 0.828,
+      "power_draw": 97.48,
+      "humidity": 30.99,
+      "airflow": 1.93,
+      "fan_speed": 2725.7,
+      "node_status": "maintenance"
+    }
+  },
+  {
+    "timestamp": "2025-04-08T23:58:03.232199",
+    "node_id": 13,
+    "alerts": [
+      "\u26a1 High power draw"
+    ],
+    "rolling_avg_vibration": 0.726,
+    "raw": {
+      "timestamp": "2025-04-08T23:58:03.232199",
+      "node_id": 13,
+      "temperature": 67.07,
+      "vibration": 0.726,
+      "power_draw": 92.15,
+      "humidity": 38.3,
+      "airflow": 1.79,
+      "fan_speed": 3963.9,
+      "node_status": "maintenance"
+    }
+  },
+  {
+    "timestamp": "2025-04-08T23:58:03.232199",
+    "node_id": 14,
+    "alerts": [
+      "\ud83d\udd27 Abnormal vibration (avg)"
+    ],
+    "rolling_avg_vibration": 0.897,
+    "raw": {
+      "timestamp": "2025-04-08T23:58:03.232199",
+      "node_id": 14,
+      "temperature": 39.78,
+      "vibration": 0.897,
+      "power_draw": 15.17,
+      "humidity": 80.69,
+      "airflow": 0.3,
+      "fan_speed": 3792.9,
+      "node_status": "maintenance"
+    }
+  },
+  {
+    "timestamp": "2025-04-08T23:58:03.232199",
+    "node_id": 16,
+    "alerts": [
+      "\ud83d\udd27 Abnormal vibration (avg)"
+    ],
+    "rolling_avg_vibration": 0.91,
+    "raw": {
+      "timestamp": "2025-04-08T23:58:03.232199",
+      "node_id": 16,
+      "temperature": 21.47,
+      "vibration": 0.91,
+      "power_draw": 16.96,
+      "humidity": 33.28,
+      "airflow": 0.33,
+      "fan_speed": 4652.8,
+      "node_status": "maintenance"
+    }
+  },
+  {
+    "timestamp": "2025-04-08T23:58:03.232199",
+    "node_id": 17,
+    "alerts": [
+      "\ud83d\udd27 Abnormal vibration (avg)"
+    ],
+    "rolling_avg_vibration": 0.845,
+    "raw": {
+      "timestamp": "2025-04-08T23:58:03.232199",
+      "node_id": 17,
+      "temperature": 29.75,
+      "vibration": 0.845,
+      "power_draw": 13.27,
+      "humidity": 80.45,
+      "airflow": 1.35,
+      "fan_speed": 2719.3,
+      "node_status": "critical"
+    }
+  },
+  {
+    "timestamp": "2025-04-08T23:58:03.232199",
+    "node_id": 18,
+    "alerts": [
+      "\ud83d\udd25 High temperature"
+    ],
+    "rolling_avg_vibration": 0.219,
+    "raw": {
+      "timestamp": "2025-04-08T23:58:03.232199",
+      "node_id": 18,
+      "temperature": 78.47,
+      "vibration": 0.219,
+      "power_draw": 45.06,
+      "humidity": 44.72,
+      "airflow": 1.16,
+      "fan_speed": 2677.2,
+      "node_status": "operational"
+    }
+  },
+  {
+    "timestamp": "2025-04-08T23:58:03.232199",
+    "node_id": 20,
+    "alerts": [
+      "\ud83d\udd27 Abnormal vibration (avg)"
+    ],
+    "rolling_avg_vibration": 0.905,
+    "raw": {
+      "timestamp": "2025-04-08T23:58:03.232199",
+      "node_id": 20,
+      "temperature": 36.36,
+      "vibration": 0.905,
+      "power_draw": 53.77,
+      "humidity": 89.96,
+      "airflow": 0.24,
+      "fan_speed": 634.4,
+      "node_status": "maintenance"
+    }
+  },
+  {
+    "timestamp": "2025-04-08T23:59:03.232199",
+    "node_id": 2,
+    "alerts": [
+      "\ud83d\udd27 Abnormal vibration (avg)"
+    ],
+    "rolling_avg_vibration": 0.878,
+    "raw": {
+      "timestamp": "2025-04-08T23:59:03.232199",
+      "node_id": 2,
+      "temperature": 68.23,
+      "vibration": 0.905,
+      "power_draw": 30.35,
+      "humidity": 75.12,
+      "airflow": 1.33,
+      "fan_speed": 3995.2,
+      "node_status": "critical"
+    }
+  },
+  {
+    "timestamp": "2025-04-08T23:59:03.232199",
+    "node_id": 7,
+    "alerts": [
+      "\ud83d\udd25 High temperature"
+    ],
+    "rolling_avg_vibration": 0.674,
+    "raw": {
+      "timestamp": "2025-04-08T23:59:03.232199",
+      "node_id": 7,
+      "temperature": 79.9,
+      "vibration": 0.413,
+      "power_draw": 89.23,
+      "humidity": 77.71,
+      "airflow": 0.49,
+      "fan_speed": 4784.0,
+      "node_status": "maintenance"
+    }
+  },
+  {
+    "timestamp": "2025-04-08T23:59:03.232199",
+    "node_id": 13,
+    "alerts": [
+      "\ud83d\udd27 Abnormal vibration (avg)"
+    ],
+    "rolling_avg_vibration": 0.823,
+    "raw": {
+      "timestamp": "2025-04-08T23:59:03.232199",
+      "node_id": 13,
+      "temperature": 28.32,
+      "vibration": 0.92,
+      "power_draw": 68.25,
+      "humidity": 55.98,
+      "airflow": 0.23,
+      "fan_speed": 2621.7,
+      "node_status": "critical"
+    }
+  },
+  {
+    "timestamp": "2025-04-09T00:00:03.232199",
+    "node_id": 11,
+    "alerts": [
+      "\ud83d\udd25 High temperature"
+    ],
+    "rolling_avg_vibration": 0.559,
+    "raw": {
+      "timestamp": "2025-04-09T00:00:03.232199",
+      "node_id": 11,
+      "temperature": 79.06,
+      "vibration": 0.809,
+      "power_draw": 21.14,
+      "humidity": 32.13,
+      "airflow": 1.35,
+      "fan_speed": 4563.7,
+      "node_status": "critical"
+    }
+  },
+  {
+    "timestamp": "2025-04-09T00:00:03.232199",
+    "node_id": 17,
+    "alerts": [
+      "\u26a1 High power draw"
+    ],
+    "rolling_avg_vibration": 0.736,
+    "raw": {
+      "timestamp": "2025-04-09T00:00:03.232199",
+      "node_id": 17,
+      "temperature": 43.11,
+      "vibration": 0.67,
+      "power_draw": 97.53,
+      "humidity": 56.34,
+      "airflow": 0.51,
+      "fan_speed": 1684.1,
+      "node_status": "critical"
+    }
+  },
+  {
+    "timestamp": "2025-04-09T00:00:03.232199",
+    "node_id": 18,
+    "alerts": [
+      "\u26a1 High power draw"
+    ],
+    "rolling_avg_vibration": 0.431,
+    "raw": {
+      "timestamp": "2025-04-09T00:00:03.232199",
+      "node_id": 18,
+      "temperature": 57.22,
+      "vibration": 0.379,
+      "power_draw": 99.8,
+      "humidity": 36.62,
+      "airflow": 1.09,
+      "fan_speed": 670.1,
+      "node_status": "maintenance"
+    }
+  },
+  {
+    "timestamp": "2025-04-09T00:01:03.232199",
+    "node_id": 2,
+    "alerts": [
+      "\ud83d\udd25 High temperature"
+    ],
+    "rolling_avg_vibration": 0.626,
+    "raw": {
+      "timestamp": "2025-04-09T00:01:03.232199",
+      "node_id": 2,
+      "temperature": 77.01,
+      "vibration": 0.107,
+      "power_draw": 75.43,
+      "humidity": 30.5,
+      "airflow": 1.66,
+      "fan_speed": 3419.2,
+      "node_status": "critical"
+    }
+  },
+  {
+    "timestamp": "2025-04-09T00:01:03.232199",
+    "node_id": 6,
+    "alerts": [
+      "\u26a1 High power draw"
+    ],
+    "rolling_avg_vibration": 0.738,
+    "raw": {
+      "timestamp": "2025-04-09T00:01:03.232199",
+      "node_id": 6,
+      "temperature": 32.32,
+      "vibration": 0.886,
+      "power_draw": 95.73,
+      "humidity": 46.97,
+      "airflow": 0.72,
+      "fan_speed": 2686.2,
+      "node_status": "operational"
+    }
+  },
+  {
+    "timestamp": "2025-04-09T00:01:03.232199",
+    "node_id": 9,
+    "alerts": [
+      "\ud83d\udd25 High temperature"
+    ],
+    "rolling_avg_vibration": 0.391,
+    "raw": {
+      "timestamp": "2025-04-09T00:01:03.232199",
+      "node_id": 9,
+      "temperature": 75.12,
+      "vibration": 0.052,
+      "power_draw": 27.03,
+      "humidity": 82.1,
+      "airflow": 0.67,
+      "fan_speed": 2439.4,
+      "node_status": "maintenance"
+    }
+  },
+  {
+    "timestamp": "2025-04-09T00:01:03.232199",
+    "node_id": 13,
+    "alerts": [
+      "\u26a1 High power draw"
+    ],
+    "rolling_avg_vibration": 0.533,
+    "raw": {
+      "timestamp": "2025-04-09T00:01:03.232199",
+      "node_id": 13,
+      "temperature": 38.8,
+      "vibration": 0.152,
+      "power_draw": 99.98,
+      "humidity": 73.2,
+      "airflow": 1.37,
+      "fan_speed": 1815.3,
+      "node_status": "critical"
+    }
+  },
+  {
+    "timestamp": "2025-04-09T00:01:03.232199",
+    "node_id": 18,
+    "alerts": [
+      "\ud83d\udd25 High temperature",
+      "\u26a1 High power draw"
+    ],
+    "rolling_avg_vibration": 0.422,
+    "raw": {
+      "timestamp": "2025-04-09T00:01:03.232199",
+      "node_id": 18,
+      "temperature": 78.7,
+      "vibration": 0.395,
+      "power_draw": 92.43,
+      "humidity": 53.52,
+      "airflow": 1.26,
+      "fan_speed": 3206.2,
+      "node_status": "maintenance"
+    }
+  },
+  {
+    "timestamp": "2025-04-09T00:02:03.232199",
+    "node_id": 3,
+    "alerts": [
+      "\ud83d\udd25 High temperature"
+    ],
+    "rolling_avg_vibration": 0.516,
+    "raw": {
+      "timestamp": "2025-04-09T00:02:03.232199",
+      "node_id": 3,
+      "temperature": 77.68,
+      "vibration": 0.645,
+      "power_draw": 26.96,
+      "humidity": 57.28,
+      "airflow": 0.34,
+      "fan_speed": 4369.6,
+      "node_status": "maintenance"
+    }
+  },
+  {
+    "timestamp": "2025-04-09T00:02:03.232199",
+    "node_id": 7,
+    "alerts": [
+      "\u26a1 High power draw"
+    ],
+    "rolling_avg_vibration": 0.569,
+    "raw": {
+      "timestamp": "2025-04-09T00:02:03.232199",
+      "node_id": 7,
+      "temperature": 27.17,
+      "vibration": 0.694,
+      "power_draw": 92.21,
+      "humidity": 36.9,
+      "airflow": 0.16,
+      "fan_speed": 3673.3,
+      "node_status": "critical"
+    }
+  },
+  {
+    "timestamp": "2025-04-09T00:02:03.232199",
+    "node_id": 14,
+    "alerts": [
+      "\ud83d\udd25 High temperature"
+    ],
+    "rolling_avg_vibration": 0.486,
+    "raw": {
+      "timestamp": "2025-04-09T00:02:03.232199",
+      "node_id": 14,
+      "temperature": 75.54,
+      "vibration": 0.169,
+      "power_draw": 31.29,
+      "humidity": 48.28,
+      "airflow": 0.87,
+      "fan_speed": 4003.3,
+      "node_status": "critical"
+    }
+  },
+  {
+    "timestamp": "2025-04-09T00:02:03.232199",
+    "node_id": 17,
+    "alerts": [
+      "\u26a1 High power draw"
+    ],
+    "rolling_avg_vibration": 0.592,
+    "raw": {
+      "timestamp": "2025-04-09T00:02:03.232199",
+      "node_id": 17,
+      "temperature": 49.77,
+      "vibration": 0.33,
+      "power_draw": 94.14,
+      "humidity": 30.1,
+      "airflow": 1.94,
+      "fan_speed": 3041.9,
+      "node_status": "operational"
+    }
+  },
+  {
+    "timestamp": "2025-04-09T00:03:03.232199",
+    "node_id": 8,
+    "alerts": [
+      "\u26a1 High power draw"
+    ],
+    "rolling_avg_vibration": 0.409,
+    "raw": {
+      "timestamp": "2025-04-09T00:03:03.232199",
+      "node_id": 8,
+      "temperature": 54.8,
+      "vibration": 0.288,
+      "power_draw": 98.92,
+      "humidity": 65.48,
+      "airflow": 0.52,
+      "fan_speed": 2226.0,
+      "node_status": "operational"
+    }
+  },
+  {
+    "timestamp": "2025-04-09T00:03:03.232199",
+    "node_id": 12,
+    "alerts": [
+      "\u26a1 High power draw"
+    ],
+    "rolling_avg_vibration": 0.536,
+    "raw": {
+      "timestamp": "2025-04-09T00:03:03.232199",
+      "node_id": 12,
+      "temperature": 36.87,
+      "vibration": 0.1,
+      "power_draw": 95.98,
+      "humidity": 65.06,
+      "airflow": 1.56,
+      "fan_speed": 2321.3,
+      "node_status": "critical"
+    }
+  },
+  {
+    "timestamp": "2025-04-09T00:03:03.232199",
+    "node_id": 20,
+    "alerts": [
+      "\u26a1 High power draw"
+    ],
+    "rolling_avg_vibration": 0.418,
+    "raw": {
+      "timestamp": "2025-04-09T00:03:03.232199",
+      "node_id": 20,
+      "temperature": 22.21,
+      "vibration": 0.398,
+      "power_draw": 91.36,
+      "humidity": 42.22,
+      "airflow": 0.28,
+      "fan_speed": 602.2,
+      "node_status": "maintenance"
+    }
+  },
+  {
+    "timestamp": "2025-04-09T00:04:03.232199",
+    "node_id": 2,
+    "alerts": [
+      "\u26a1 High power draw"
+    ],
+    "rolling_avg_vibration": 0.525,
+    "raw": {
+      "timestamp": "2025-04-09T00:04:03.232199",
+      "node_id": 2,
+      "temperature": 60.9,
+      "vibration": 0.968,
+      "power_draw": 93.87,
+      "humidity": 76.37,
+      "airflow": 0.21,
+      "fan_speed": 4015.9,
+      "node_status": "operational"
+    }
+  },
+  {
+    "timestamp": "2025-04-09T00:04:03.232199",
+    "node_id": 5,
+    "alerts": [
+      "\ud83d\udd25 High temperature"
+    ],
+    "rolling_avg_vibration": 0.651,
+    "raw": {
+      "timestamp": "2025-04-09T00:04:03.232199",
+      "node_id": 5,
+      "temperature": 79.97,
+      "vibration": 0.529,
+      "power_draw": 67.9,
+      "humidity": 71.1,
+      "airflow": 0.11,
+      "fan_speed": 2373.6,
+      "node_status": "maintenance"
+    }
+  },
+  {
+    "timestamp": "2025-04-09T00:04:03.232199",
+    "node_id": 14,
+    "alerts": [
+      "\ud83d\udd25 High temperature"
+    ],
+    "rolling_avg_vibration": 0.509,
+    "raw": {
+      "timestamp": "2025-04-09T00:04:03.232199",
+      "node_id": 14,
+      "temperature": 78.46,
+      "vibration": 0.408,
+      "power_draw": 19.8,
+      "humidity": 32.21,
+      "airflow": 1.37,
+      "fan_speed": 2305.9,
+      "node_status": "maintenance"
+    }
+  },
+  {
+    "timestamp": "2025-04-09T00:04:03.232199",
+    "node_id": 15,
+    "alerts": [
+      "\u26a1 High power draw"
+    ],
+    "rolling_avg_vibration": 0.51,
+    "raw": {
+      "timestamp": "2025-04-09T00:04:03.232199",
+      "node_id": 15,
+      "temperature": 31.85,
+      "vibration": 0.434,
+      "power_draw": 90.26,
+      "humidity": 74.38,
+      "airflow": 1.81,
+      "fan_speed": 3315.3,
+      "node_status": "maintenance"
+    }
+  },
+  {
+    "timestamp": "2025-04-09T00:04:03.232199",
+    "node_id": 16,
+    "alerts": [
+      "\ud83d\udd25 High temperature"
+    ],
+    "rolling_avg_vibration": 0.584,
+    "raw": {
+      "timestamp": "2025-04-09T00:04:03.232199",
+      "node_id": 16,
+      "temperature": 78.1,
+      "vibration": 0.693,
+      "power_draw": 68.05,
+      "humidity": 55.05,
+      "airflow": 1.96,
+      "fan_speed": 711.8,
+      "node_status": "maintenance"
+    }
+  },
+  {
+    "timestamp": "2025-04-09T00:05:03.232199",
+    "node_id": 1,
+    "alerts": [
+      "\u26a1 High power draw"
+    ],
+    "rolling_avg_vibration": 0.529,
+    "raw": {
+      "timestamp": "2025-04-09T00:05:03.232199",
+      "node_id": 1,
+      "temperature": 58.46,
+      "vibration": 0.016,
+      "power_draw": 95.24,
+      "humidity": 61.46,
+      "airflow": 0.25,
+      "fan_speed": 4444.1,
+      "node_status": "operational"
+    }
+  },
+  {
+    "timestamp": "2025-04-09T00:05:03.232199",
+    "node_id": 3,
+    "alerts": [
+      "\u26a1 High power draw"
+    ],
+    "rolling_avg_vibration": 0.42,
+    "raw": {
+      "timestamp": "2025-04-09T00:05:03.232199",
+      "node_id": 3,
+      "temperature": 74.76,
+      "vibration": 0.374,
+      "power_draw": 94.7,
+      "humidity": 78.39,
+      "airflow": 0.11,
+      "fan_speed": 1979.6,
+      "node_status": "critical"
+    }
+  },
+  {
+    "timestamp": "2025-04-09T00:05:03.232199",
+    "node_id": 9,
+    "alerts": [
+      "\u26a1 High power draw"
+    ],
+    "rolling_avg_vibration": 0.376,
+    "raw": {
+      "timestamp": "2025-04-09T00:05:03.232199",
+      "node_id": 9,
+      "temperature": 39.77,
+      "vibration": 0.55,
+      "power_draw": 91.38,
+      "humidity": 46.88,
+      "airflow": 0.94,
+      "fan_speed": 1031.8,
+      "node_status": "maintenance"
+    }
+  },
+  {
+    "timestamp": "2025-04-09T00:05:03.232199",
+    "node_id": 12,
+    "alerts": [
+      "\ud83d\udd25 High temperature"
+    ],
+    "rolling_avg_vibration": 0.397,
+    "raw": {
+      "timestamp": "2025-04-09T00:05:03.232199",
+      "node_id": 12,
+      "temperature": 76.42,
+      "vibration": 0.663,
+      "power_draw": 42.17,
+      "humidity": 74.8,
+      "airflow": 1.27,
+      "fan_speed": 4445.8,
+      "node_status": "operational"
+    }
+  },
+  {
+    "timestamp": "2025-04-09T00:05:03.232199",
+    "node_id": 14,
+    "alerts": [
+      "\u26a1 High power draw"
+    ],
+    "rolling_avg_vibration": 0.547,
+    "raw": {
+      "timestamp": "2025-04-09T00:05:03.232199",
+      "node_id": 14,
+      "temperature": 46.58,
+      "vibration": 0.821,
+      "power_draw": 95.45,
+      "humidity": 87.06,
+      "airflow": 1.78,
+      "fan_speed": 2995.6,
+      "node_status": "critical"
+    }
+  },
+  {
+    "timestamp": "2025-04-09T00:06:03.232199",
+    "node_id": 8,
+    "alerts": [
+      "\u26a1 High power draw"
+    ],
+    "rolling_avg_vibration": 0.552,
+    "raw": {
+      "timestamp": "2025-04-09T00:06:03.232199",
+      "node_id": 8,
+      "temperature": 65.1,
+      "vibration": 0.905,
+      "power_draw": 91.48,
+      "humidity": 60.46,
+      "airflow": 1.56,
+      "fan_speed": 2635.5,
+      "node_status": "critical"
+    }
+  },
+  {
+    "timestamp": "2025-04-09T00:06:03.232199",
+    "node_id": 13,
+    "alerts": [
+      "\u26a1 High power draw"
+    ],
+    "rolling_avg_vibration": 0.583,
+    "raw": {
+      "timestamp": "2025-04-09T00:06:03.232199",
+      "node_id": 13,
+      "temperature": 46.97,
+      "vibration": 0.103,
+      "power_draw": 97.13,
+      "humidity": 86.94,
+      "airflow": 1.05,
+      "fan_speed": 3663.7,
+      "node_status": "critical"
+    }
+  },
+  {
+    "timestamp": "2025-04-09T00:06:03.232199",
+    "node_id": 18,
+    "alerts": [
+      "\u26a1 High power draw"
+    ],
+    "rolling_avg_vibration": 0.455,
+    "raw": {
+      "timestamp": "2025-04-09T00:06:03.232199",
+      "node_id": 18,
+      "temperature": 61.39,
+      "vibration": 0.522,
+      "power_draw": 95.24,
+      "humidity": 72.17,
+      "airflow": 1.76,
+      "fan_speed": 1754.8,
+      "node_status": "operational"
+    }
+  },
+  {
+    "timestamp": "2025-04-09T00:06:03.232199",
+    "node_id": 20,
+    "alerts": [
+      "\u26a1 High power draw"
+    ],
+    "rolling_avg_vibration": 0.608,
+    "raw": {
+      "timestamp": "2025-04-09T00:06:03.232199",
+      "node_id": 20,
+      "temperature": 70.9,
+      "vibration": 0.903,
+      "power_draw": 98.83,
+      "humidity": 86.44,
+      "airflow": 1.45,
+      "fan_speed": 1236.4,
+      "node_status": "critical"
+    }
+  },
+  {
+    "timestamp": "2025-04-09T00:07:03.232199",
+    "node_id": 1,
+    "alerts": [
+      "\u26a1 High power draw"
+    ],
+    "rolling_avg_vibration": 0.605,
+    "raw": {
+      "timestamp": "2025-04-09T00:07:03.232199",
+      "node_id": 1,
+      "temperature": 74.17,
+      "vibration": 0.586,
+      "power_draw": 98.41,
+      "humidity": 72.67,
+      "airflow": 0.32,
+      "fan_speed": 4531.6,
+      "node_status": "critical"
+    }
+  },
+  {
+    "timestamp": "2025-04-09T00:07:03.232199",
+    "node_id": 2,
+    "alerts": [
+      "\ud83d\udd27 Abnormal vibration (avg)"
+    ],
+    "rolling_avg_vibration": 0.833,
+    "raw": {
+      "timestamp": "2025-04-09T00:07:03.232199",
+      "node_id": 2,
+      "temperature": 37.81,
+      "vibration": 0.631,
+      "power_draw": 79.53,
+      "humidity": 83.15,
+      "airflow": 1.05,
+      "fan_speed": 961.1,
+      "node_status": "operational"
+    }
+  },
+  {
+    "timestamp": "2025-04-09T00:07:03.232199",
+    "node_id": 9,
+    "alerts": [
+      "\u26a1 High power draw"
+    ],
+    "rolling_avg_vibration": 0.439,
+    "raw": {
+      "timestamp": "2025-04-09T00:07:03.232199",
+      "node_id": 9,
+      "temperature": 30.1,
+      "vibration": 0.298,
+      "power_draw": 98.16,
+      "humidity": 30.98,
+      "airflow": 0.28,
+      "fan_speed": 3533.6,
+      "node_status": "critical"
+    }
+  },
+  {
+    "timestamp": "2025-04-09T00:07:03.232199",
+    "node_id": 13,
+    "alerts": [
+      "\u26a1 High power draw"
+    ],
+    "rolling_avg_vibration": 0.437,
+    "raw": {
+      "timestamp": "2025-04-09T00:07:03.232199",
+      "node_id": 13,
+      "temperature": 59.53,
+      "vibration": 0.172,
+      "power_draw": 96.0,
+      "humidity": 84.26,
+      "airflow": 0.48,
+      "fan_speed": 917.2,
+      "node_status": "operational"
+    }
+  },
+  {
+    "timestamp": "2025-04-09T00:07:03.232199",
+    "node_id": 17,
+    "alerts": [
+      "\ud83d\udd25 High temperature"
+    ],
+    "rolling_avg_vibration": 0.262,
+    "raw": {
+      "timestamp": "2025-04-09T00:07:03.232199",
+      "node_id": 17,
+      "temperature": 77.24,
+      "vibration": 0.119,
+      "power_draw": 83.13,
+      "humidity": 43.99,
+      "airflow": 0.55,
+      "fan_speed": 4866.0,
+      "node_status": "operational"
+    }
+  },
+  {
+    "timestamp": "2025-04-09T00:09:03.232199",
+    "node_id": 2,
+    "alerts": [
+      "\u26a1 High power draw"
+    ],
+    "rolling_avg_vibration": 0.711,
+    "raw": {
+      "timestamp": "2025-04-09T00:09:03.232199",
+      "node_id": 2,
+      "temperature": 69.11,
+      "vibration": 0.641,
+      "power_draw": 98.09,
+      "humidity": 76.33,
+      "airflow": 1.12,
+      "fan_speed": 1263.9,
+      "node_status": "critical"
+    }
+  },
+  {
+    "timestamp": "2025-04-09T00:09:03.232199",
+    "node_id": 3,
+    "alerts": [
+      "\ud83d\udd25 High temperature"
+    ],
+    "rolling_avg_vibration": 0.461,
+    "raw": {
+      "timestamp": "2025-04-09T00:09:03.232199",
+      "node_id": 3,
+      "temperature": 75.45,
+      "vibration": 0.907,
+      "power_draw": 38.38,
+      "humidity": 76.54,
+      "airflow": 1.71,
+      "fan_speed": 4620.8,
+      "node_status": "operational"
+    }
+  },
+  {
+    "timestamp": "2025-04-09T00:09:03.232199",
+    "node_id": 9,
+    "alerts": [
+      "\u26a1 High power draw"
+    ],
+    "rolling_avg_vibration": 0.445,
+    "raw": {
+      "timestamp": "2025-04-09T00:09:03.232199",
+      "node_id": 9,
+      "temperature": 73.74,
+      "vibration": 0.367,
+      "power_draw": 98.93,
+      "humidity": 73.71,
+      "airflow": 0.68,
+      "fan_speed": 3297.6,
+      "node_status": "critical"
+    }
+  },
+  {
+    "timestamp": "2025-04-09T00:09:03.232199",
+    "node_id": 11,
+    "alerts": [
+      "\u26a1 High power draw"
+    ],
+    "rolling_avg_vibration": 0.462,
+    "raw": {
+      "timestamp": "2025-04-09T00:09:03.232199",
+      "node_id": 11,
+      "temperature": 24.35,
+      "vibration": 0.444,
+      "power_draw": 91.2,
+      "humidity": 68.65,
+      "airflow": 1.66,
+      "fan_speed": 3783.3,
+      "node_status": "maintenance"
+    }
+  },
+  {
+    "timestamp": "2025-04-09T00:09:03.232199",
+    "node_id": 12,
+    "alerts": [
+      "\u26a1 High power draw"
+    ],
+    "rolling_avg_vibration": 0.648,
+    "raw": {
+      "timestamp": "2025-04-09T00:09:03.232199",
+      "node_id": 12,
+      "temperature": 42.96,
+      "vibration": 0.797,
+      "power_draw": 96.17,
+      "humidity": 58.75,
+      "airflow": 1.09,
+      "fan_speed": 2037.4,
+      "node_status": "maintenance"
+    }
+  },
+  {
+    "timestamp": "2025-04-09T00:10:03.232199",
+    "node_id": 1,
+    "alerts": [
+      "\ud83d\udd25 High temperature"
+    ],
+    "rolling_avg_vibration": 0.573,
+    "raw": {
+      "timestamp": "2025-04-09T00:10:03.232199",
+      "node_id": 1,
+      "temperature": 75.85,
+      "vibration": 0.073,
+      "power_draw": 40.66,
+      "humidity": 75.99,
+      "airflow": 0.51,
+      "fan_speed": 4938.1,
+      "node_status": "operational"
+    }
+  },
+  {
+    "timestamp": "2025-04-09T00:10:03.232199",
+    "node_id": 12,
+    "alerts": [
+      "\ud83d\udd25 High temperature"
+    ],
+    "rolling_avg_vibration": 0.669,
+    "raw": {
+      "timestamp": "2025-04-09T00:10:03.232199",
+      "node_id": 12,
+      "temperature": 76.37,
+      "vibration": 0.767,
+      "power_draw": 85.72,
+      "humidity": 54.58,
+      "airflow": 1.4,
+      "fan_speed": 1167.8,
+      "node_status": "critical"
+    }
+  },
+  {
+    "timestamp": "2025-04-09T00:10:03.232199",
+    "node_id": 19,
+    "alerts": [
+      "\u26a1 High power draw"
+    ],
+    "rolling_avg_vibration": 0.465,
+    "raw": {
+      "timestamp": "2025-04-09T00:10:03.232199",
+      "node_id": 19,
+      "temperature": 49.9,
+      "vibration": 0.039,
+      "power_draw": 99.5,
+      "humidity": 39.53,
+      "airflow": 1.23,
+      "fan_speed": 1930.0,
+      "node_status": "maintenance"
+    }
+  },
+  {
+    "timestamp": "2025-04-09T00:11:03.232199",
+    "node_id": 1,
+    "alerts": [
+      "\ud83d\udd25 High temperature"
+    ],
+    "rolling_avg_vibration": 0.445,
+    "raw": {
+      "timestamp": "2025-04-09T00:11:03.232199",
+      "node_id": 1,
+      "temperature": 76.4,
+      "vibration": 0.241,
+      "power_draw": 79.17,
+      "humidity": 82.38,
+      "airflow": 1.44,
+      "fan_speed": 2992.3,
+      "node_status": "maintenance"
+    }
+  },
+  {
+    "timestamp": "2025-04-09T00:11:03.232199",
+    "node_id": 4,
+    "alerts": [
+      "\u26a1 High power draw"
+    ],
+    "rolling_avg_vibration": 0.422,
+    "raw": {
+      "timestamp": "2025-04-09T00:11:03.232199",
+      "node_id": 4,
+      "temperature": 23.18,
+      "vibration": 0.049,
+      "power_draw": 99.71,
+      "humidity": 61.14,
+      "airflow": 0.6,
+      "fan_speed": 610.0,
+      "node_status": "critical"
+    }
+  },
+  {
+    "timestamp": "2025-04-09T00:11:03.232199",
+    "node_id": 11,
+    "alerts": [
+      "\ud83d\udd25 High temperature"
+    ],
+    "rolling_avg_vibration": 0.47,
+    "raw": {
+      "timestamp": "2025-04-09T00:11:03.232199",
+      "node_id": 11,
+      "temperature": 79.59,
+      "vibration": 0.279,
+      "power_draw": 59.8,
+      "humidity": 71.8,
+      "airflow": 1.71,
+      "fan_speed": 2639.7,
+      "node_status": "maintenance"
+    }
+  },
+  {
+    "timestamp": "2025-04-09T00:11:03.232199",
+    "node_id": 15,
+    "alerts": [
+      "\ud83d\udd25 High temperature"
+    ],
+    "rolling_avg_vibration": 0.62,
+    "raw": {
+      "timestamp": "2025-04-09T00:11:03.232199",
+      "node_id": 15,
+      "temperature": 76.24,
+      "vibration": 0.543,
+      "power_draw": 68.36,
+      "humidity": 54.64,
+      "airflow": 0.2,
+      "fan_speed": 4250.0,
+      "node_status": "operational"
+    }
+  },
+  {
+    "timestamp": "2025-04-09T00:11:03.232199",
+    "node_id": 19,
+    "alerts": [
+      "\u26a1 High power draw"
+    ],
+    "rolling_avg_vibration": 0.372,
+    "raw": {
+      "timestamp": "2025-04-09T00:11:03.232199",
+      "node_id": 19,
+      "temperature": 33.32,
+      "vibration": 0.154,
+      "power_draw": 96.66,
+      "humidity": 54.58,
+      "airflow": 1.98,
+      "fan_speed": 1219.5,
+      "node_status": "operational"
+    }
+  },
+  {
+    "timestamp": "2025-04-09T00:12:03.232199",
+    "node_id": 1,
+    "alerts": [
+      "\ud83d\udd25 High temperature"
+    ],
+    "rolling_avg_vibration": 0.366,
+    "raw": {
+      "timestamp": "2025-04-09T00:12:03.232199",
+      "node_id": 1,
+      "temperature": 77.08,
+      "vibration": 0.191,
+      "power_draw": 31.88,
+      "humidity": 42.17,
+      "airflow": 0.41,
+      "fan_speed": 2542.4,
+      "node_status": "critical"
+    }
+  },
+  {
+    "timestamp": "2025-04-09T00:13:03.232199",
+    "node_id": 1,
+    "alerts": [
+      "\ud83d\udd25 High temperature"
+    ],
+    "rolling_avg_vibration": 0.345,
+    "raw": {
+      "timestamp": "2025-04-09T00:13:03.232199",
+      "node_id": 1,
+      "temperature": 77.78,
+      "vibration": 0.624,
+      "power_draw": 26.39,
+      "humidity": 89.68,
+      "airflow": 0.88,
+      "fan_speed": 1442.2,
+      "node_status": "maintenance"
+    }
+  },
+  {
+    "timestamp": "2025-04-09T00:13:03.232199",
+    "node_id": 4,
+    "alerts": [
+      "\u26a1 High power draw"
+    ],
+    "rolling_avg_vibration": 0.554,
+    "raw": {
+      "timestamp": "2025-04-09T00:13:03.232199",
+      "node_id": 4,
+      "temperature": 71.37,
+      "vibration": 0.924,
+      "power_draw": 92.31,
+      "humidity": 87.28,
+      "airflow": 0.82,
+      "fan_speed": 4244.0,
+      "node_status": "operational"
+    }
+  },
+  {
+    "timestamp": "2025-04-09T00:13:03.232199",
+    "node_id": 7,
+    "alerts": [
+      "\u26a1 High power draw"
+    ],
+    "rolling_avg_vibration": 0.621,
+    "raw": {
+      "timestamp": "2025-04-09T00:13:03.232199",
+      "node_id": 7,
+      "temperature": 30.1,
+      "vibration": 0.924,
+      "power_draw": 90.12,
+      "humidity": 46.83,
+      "airflow": 1.15,
+      "fan_speed": 2047.6,
+      "node_status": "maintenance"
+    }
+  },
+  {
+    "timestamp": "2025-04-09T00:13:03.232199",
+    "node_id": 9,
+    "alerts": [
+      "\ud83d\udd25 High temperature"
+    ],
+    "rolling_avg_vibration": 0.598,
+    "raw": {
+      "timestamp": "2025-04-09T00:13:03.232199",
+      "node_id": 9,
+      "temperature": 79.3,
+      "vibration": 0.928,
+      "power_draw": 18.7,
+      "humidity": 32.92,
+      "airflow": 1.52,
+      "fan_speed": 4913.5,
+      "node_status": "operational"
+    }
+  },
+  {
+    "timestamp": "2025-04-09T00:13:03.232199",
+    "node_id": 14,
+    "alerts": [
+      "\u26a1 High power draw"
+    ],
+    "rolling_avg_vibration": 0.439,
+    "raw": {
+      "timestamp": "2025-04-09T00:13:03.232199",
+      "node_id": 14,
+      "temperature": 67.31,
+      "vibration": 0.271,
+      "power_draw": 98.64,
+      "humidity": 48.57,
+      "airflow": 1.71,
+      "fan_speed": 4560.9,
+      "node_status": "maintenance"
+    }
+  },
+  {
+    "timestamp": "2025-04-09T00:13:03.232199",
+    "node_id": 19,
+    "alerts": [
+      "\u26a1 High power draw"
+    ],
+    "rolling_avg_vibration": 0.239,
+    "raw": {
+      "timestamp": "2025-04-09T00:13:03.232199",
+      "node_id": 19,
+      "temperature": 49.09,
+      "vibration": 0.245,
+      "power_draw": 91.69,
+      "humidity": 81.52,
+      "airflow": 0.3,
+      "fan_speed": 2741.1,
+      "node_status": "operational"
+    }
+  },
+  {
+    "timestamp": "2025-04-09T00:14:03.232199",
+    "node_id": 6,
+    "alerts": [
+      "\u26a1 High power draw"
+    ],
+    "rolling_avg_vibration": 0.298,
+    "raw": {
+      "timestamp": "2025-04-09T00:14:03.232199",
+      "node_id": 6,
+      "temperature": 23.54,
+      "vibration": 0.129,
+      "power_draw": 90.33,
+      "humidity": 73.87,
+      "airflow": 0.16,
+      "fan_speed": 520.4,
+      "node_status": "operational"
+    }
+  },
+  {
+    "timestamp": "2025-04-09T00:14:03.232199",
+    "node_id": 9,
+    "alerts": [
+      "\ud83d\udd25 High temperature"
+    ],
+    "rolling_avg_vibration": 0.705,
+    "raw": {
+      "timestamp": "2025-04-09T00:14:03.232199",
+      "node_id": 9,
+      "temperature": 76.28,
+      "vibration": 0.901,
+      "power_draw": 87.67,
+      "humidity": 61.51,
+      "airflow": 1.25,
+      "fan_speed": 4979.2,
+      "node_status": "critical"
+    }
+  },
+  {
+    "timestamp": "2025-04-09T00:14:03.232199",
+    "node_id": 11,
+    "alerts": [
+      "\u26a1 High power draw"
+    ],
+    "rolling_avg_vibration": 0.733,
+    "raw": {
+      "timestamp": "2025-04-09T00:14:03.232199",
+      "node_id": 11,
+      "temperature": 26.8,
+      "vibration": 0.809,
+      "power_draw": 97.57,
+      "humidity": 77.95,
+      "airflow": 0.89,
+      "fan_speed": 2413.5,
+      "node_status": "maintenance"
+    }
+  },
+  {
+    "timestamp": "2025-04-09T00:14:03.232199",
+    "node_id": 13,
+    "alerts": [
+      "\ud83d\udd25 High temperature"
+    ],
+    "rolling_avg_vibration": 0.597,
+    "raw": {
+      "timestamp": "2025-04-09T00:14:03.232199",
+      "node_id": 13,
+      "temperature": 76.12,
+      "vibration": 0.077,
+      "power_draw": 64.71,
+      "humidity": 30.93,
+      "airflow": 0.14,
+      "fan_speed": 2286.5,
+      "node_status": "operational"
+    }
+  },
+  {
+    "timestamp": "2025-04-09T00:14:03.232199",
+    "node_id": 18,
+    "alerts": [
+      "\u26a1 High power draw"
+    ],
+    "rolling_avg_vibration": 0.69,
+    "raw": {
+      "timestamp": "2025-04-09T00:14:03.232199",
+      "node_id": 18,
+      "temperature": 52.55,
+      "vibration": 0.537,
+      "power_draw": 95.88,
+      "humidity": 88.42,
+      "airflow": 1.25,
+      "fan_speed": 2798.9,
+      "node_status": "operational"
+    }
+  },
+  {
+    "timestamp": "2025-04-09T00:14:03.232199",
+    "node_id": 20,
+    "alerts": [
+      "\u26a1 High power draw"
+    ],
+    "rolling_avg_vibration": 0.118,
+    "raw": {
+      "timestamp": "2025-04-09T00:14:03.232199",
+      "node_id": 20,
+      "temperature": 30.85,
+      "vibration": 0.107,
+      "power_draw": 91.22,
+      "humidity": 68.37,
+      "airflow": 1.69,
+      "fan_speed": 1851.8,
+      "node_status": "maintenance"
+    }
+  },
+  {
+    "timestamp": "2025-04-09T00:15:03.232199",
+    "node_id": 3,
+    "alerts": [
+      "\u26a1 High power draw"
+    ],
+    "rolling_avg_vibration": 0.4,
+    "raw": {
+      "timestamp": "2025-04-09T00:15:03.232199",
+      "node_id": 3,
+      "temperature": 37.36,
+      "vibration": 0.678,
+      "power_draw": 92.83,
+      "humidity": 65.79,
+      "airflow": 1.76,
+      "fan_speed": 4566.3,
+      "node_status": "critical"
+    }
+  },
+  {
+    "timestamp": "2025-04-09T00:15:03.232199",
+    "node_id": 7,
+    "alerts": [
+      "\ud83d\udd25 High temperature"
+    ],
+    "rolling_avg_vibration": 0.536,
+    "raw": {
+      "timestamp": "2025-04-09T00:15:03.232199",
+      "node_id": 7,
+      "temperature": 79.47,
+      "vibration": 0.688,
+      "power_draw": 58.43,
+      "humidity": 65.4,
+      "airflow": 0.21,
+      "fan_speed": 1231.1,
+      "node_status": "maintenance"
+    }
+  },
+  {
+    "timestamp": "2025-04-09T00:15:03.232199",
+    "node_id": 11,
+    "alerts": [
+      "\ud83d\udd25 High temperature"
+    ],
+    "rolling_avg_vibration": 0.665,
+    "raw": {
+      "timestamp": "2025-04-09T00:15:03.232199",
+      "node_id": 11,
+      "temperature": 79.84,
+      "vibration": 0.592,
+      "power_draw": 75.17,
+      "humidity": 84.28,
+      "airflow": 1.77,
+      "fan_speed": 2083.5,
+      "node_status": "critical"
+    }
+  },
+  {
+    "timestamp": "2025-04-09T00:15:03.232199",
+    "node_id": 12,
+    "alerts": [
+      "\ud83d\udd25 High temperature"
+    ],
+    "rolling_avg_vibration": 0.798,
+    "raw": {
+      "timestamp": "2025-04-09T00:15:03.232199",
+      "node_id": 12,
+      "temperature": 75.56,
+      "vibration": 0.94,
+      "power_draw": 65.74,
+      "humidity": 36.68,
+      "airflow": 0.38,
+      "fan_speed": 587.0,
+      "node_status": "maintenance"
+    }
+  },
+  {
+    "timestamp": "2025-04-09T00:15:03.232199",
+    "node_id": 18,
+    "alerts": [
+      "\ud83d\udd25 High temperature"
+    ],
+    "rolling_avg_vibration": 0.763,
+    "raw": {
+      "timestamp": "2025-04-09T00:15:03.232199",
+      "node_id": 18,
+      "temperature": 78.92,
+      "vibration": 0.882,
+      "power_draw": 65.64,
+      "humidity": 57.21,
+      "airflow": 0.73,
+      "fan_speed": 635.7,
+      "node_status": "critical"
+    }
+  },
+  {
+    "timestamp": "2025-04-09T00:16:03.232199",
+    "node_id": 6,
+    "alerts": [
+      "\u26a1 High power draw"
+    ],
+    "rolling_avg_vibration": 0.36,
+    "raw": {
+      "timestamp": "2025-04-09T00:16:03.232199",
+      "node_id": 6,
+      "temperature": 71.63,
+      "vibration": 0.46,
+      "power_draw": 99.07,
+      "humidity": 73.94,
+      "airflow": 1.52,
+      "fan_speed": 2712.2,
+      "node_status": "operational"
+    }
+  },
+  {
+    "timestamp": "2025-04-09T00:16:03.232199",
+    "node_id": 10,
+    "alerts": [
+      "\ud83d\udd25 High temperature"
+    ],
+    "rolling_avg_vibration": 0.464,
+    "raw": {
+      "timestamp": "2025-04-09T00:16:03.232199",
+      "node_id": 10,
+      "temperature": 77.98,
+      "vibration": 0.63,
+      "power_draw": 45.66,
+      "humidity": 73.07,
+      "airflow": 0.9,
+      "fan_speed": 2368.8,
+      "node_status": "operational"
+    }
+  },
+  {
+    "timestamp": "2025-04-09T00:16:03.232199",
+    "node_id": 13,
+    "alerts": [
+      "\ud83d\udd25 High temperature"
+    ],
+    "rolling_avg_vibration": 0.501,
+    "raw": {
+      "timestamp": "2025-04-09T00:16:03.232199",
+      "node_id": 13,
+      "temperature": 75.76,
+      "vibration": 0.131,
+      "power_draw": 83.94,
+      "humidity": 80.08,
+      "airflow": 1.64,
+      "fan_speed": 3813.5,
+      "node_status": "operational"
+    }
+  },
+  {
+    "timestamp": "2025-04-09T00:16:03.232199",
+    "node_id": 17,
+    "alerts": [
+      "\ud83d\udd25 High temperature"
+    ],
+    "rolling_avg_vibration": 0.368,
+    "raw": {
+      "timestamp": "2025-04-09T00:16:03.232199",
+      "node_id": 17,
+      "temperature": 77.15,
+      "vibration": 0.358,
+      "power_draw": 28.59,
+      "humidity": 43.93,
+      "airflow": 0.74,
+      "fan_speed": 1572.2,
+      "node_status": "operational"
+    }
+  },
+  {
+    "timestamp": "2025-04-09T00:16:03.232199",
+    "node_id": 18,
+    "alerts": [
+      "\ud83d\udd27 Abnormal vibration (avg)"
+    ],
+    "rolling_avg_vibration": 0.816,
+    "raw": {
+      "timestamp": "2025-04-09T00:16:03.232199",
+      "node_id": 18,
+      "temperature": 36.07,
+      "vibration": 0.942,
+      "power_draw": 89.84,
+      "humidity": 60.05,
+      "airflow": 1.58,
+      "fan_speed": 1892.2,
+      "node_status": "critical"
+    }
+  },
+  {
+    "timestamp": "2025-04-09T00:17:03.232199",
+    "node_id": 2,
+    "alerts": [
+      "\u26a1 High power draw"
+    ],
+    "rolling_avg_vibration": 0.583,
+    "raw": {
+      "timestamp": "2025-04-09T00:17:03.232199",
+      "node_id": 2,
+      "temperature": 71.96,
+      "vibration": 0.596,
+      "power_draw": 99.42,
+      "humidity": 58.29,
+      "airflow": 1.96,
+      "fan_speed": 2216.3,
+      "node_status": "maintenance"
+    }
+  },
+  {
+    "timestamp": "2025-04-09T00:17:03.232199",
+    "node_id": 5,
+    "alerts": [
+      "\u26a1 High power draw"
+    ],
+    "rolling_avg_vibration": 0.475,
+    "raw": {
+      "timestamp": "2025-04-09T00:17:03.232199",
+      "node_id": 5,
+      "temperature": 72.32,
+      "vibration": 0.426,
+      "power_draw": 94.07,
+      "humidity": 89.37,
+      "airflow": 0.25,
+      "fan_speed": 4047.4,
+      "node_status": "operational"
+    }
+  },
+  {
+    "timestamp": "2025-04-09T00:17:03.232199",
+    "node_id": 8,
+    "alerts": [
+      "\ud83d\udd25 High temperature"
+    ],
+    "rolling_avg_vibration": 0.434,
+    "raw": {
+      "timestamp": "2025-04-09T00:17:03.232199",
+      "node_id": 8,
+      "temperature": 76.78,
+      "vibration": 0.801,
+      "power_draw": 29.29,
+      "humidity": 89.27,
+      "airflow": 0.17,
+      "fan_speed": 794.9,
+      "node_status": "operational"
+    }
+  },
+  {
+    "timestamp": "2025-04-09T00:17:03.232199",
+    "node_id": 9,
+    "alerts": [
+      "\ud83d\udd27 Abnormal vibration (avg)"
+    ],
+    "rolling_avg_vibration": 0.824,
+    "raw": {
+      "timestamp": "2025-04-09T00:17:03.232199",
+      "node_id": 9,
+      "temperature": 34.67,
+      "vibration": 0.849,
+      "power_draw": 82.7,
+      "humidity": 62.33,
+      "airflow": 0.89,
+      "fan_speed": 3045.6,
+      "node_status": "maintenance"
+    }
+  },
+  {
+    "timestamp": "2025-04-09T00:17:03.232199",
+    "node_id": 18,
+    "alerts": [
+      "\ud83d\udd27 Abnormal vibration (avg)"
+    ],
+    "rolling_avg_vibration": 0.841,
+    "raw": {
+      "timestamp": "2025-04-09T00:17:03.232199",
+      "node_id": 18,
+      "temperature": 58.49,
+      "vibration": 0.947,
+      "power_draw": 69.32,
+      "humidity": 49.31,
+      "airflow": 0.82,
+      "fan_speed": 2296.6,
+      "node_status": "critical"
+    }
+  },
+  {
+    "timestamp": "2025-04-09T00:18:03.232199",
+    "node_id": 2,
+    "alerts": [
+      "\u26a1 High power draw"
+    ],
+    "rolling_avg_vibration": 0.466,
+    "raw": {
+      "timestamp": "2025-04-09T00:18:03.232199",
+      "node_id": 2,
+      "temperature": 57.28,
+      "vibration": 0.236,
+      "power_draw": 91.99,
+      "humidity": 75.58,
+      "airflow": 1.23,
+      "fan_speed": 4513.3,
+      "node_status": "operational"
+    }
+  },
+  {
+    "timestamp": "2025-04-09T00:18:03.232199",
+    "node_id": 3,
+    "alerts": [
+      "\u26a1 High power draw"
+    ],
+    "rolling_avg_vibration": 0.486,
+    "raw": {
+      "timestamp": "2025-04-09T00:18:03.232199",
+      "node_id": 3,
+      "temperature": 44.59,
+      "vibration": 0.206,
+      "power_draw": 98.87,
+      "humidity": 46.13,
+      "airflow": 1.34,
+      "fan_speed": 4608.7,
+      "node_status": "maintenance"
+    }
+  },
+  {
+    "timestamp": "2025-04-09T00:18:03.232199",
+    "node_id": 4,
+    "alerts": [
+      "\ud83d\udd25 High temperature",
+      "\u26a1 High power draw"
+    ],
+    "rolling_avg_vibration": 0.37,
+    "raw": {
+      "timestamp": "2025-04-09T00:18:03.232199",
+      "node_id": 4,
+      "temperature": 75.38,
+      "vibration": 0.137,
+      "power_draw": 91.38,
+      "humidity": 58.58,
+      "airflow": 1.76,
+      "fan_speed": 3218.5,
+      "node_status": "operational"
+    }
+  },
+  {
+    "timestamp": "2025-04-09T00:18:03.232199",
+    "node_id": 15,
+    "alerts": [
+      "\ud83d\udd27 Abnormal vibration (avg)"
+    ],
+    "rolling_avg_vibration": 0.8,
+    "raw": {
+      "timestamp": "2025-04-09T00:18:03.232199",
+      "node_id": 15,
+      "temperature": 29.25,
+      "vibration": 0.855,
+      "power_draw": 81.8,
+      "humidity": 36.04,
+      "airflow": 1.61,
+      "fan_speed": 2075.4,
+      "node_status": "operational"
+    }
+  },
+  {
+    "timestamp": "2025-04-09T00:18:03.232199",
+    "node_id": 20,
+    "alerts": [
+      "\ud83d\udd25 High temperature"
+    ],
+    "rolling_avg_vibration": 0.61,
+    "raw": {
+      "timestamp": "2025-04-09T00:18:03.232199",
+      "node_id": 20,
+      "temperature": 78.01,
+      "vibration": 0.948,
+      "power_draw": 20.02,
+      "humidity": 85.04,
+      "airflow": 0.9,
+      "fan_speed": 1258.5,
+      "node_status": "critical"
+    }
+  },
+  {
+    "timestamp": "2025-04-09T00:19:03.232199",
+    "node_id": 6,
+    "alerts": [
+      "\ud83d\udd25 High temperature"
+    ],
+    "rolling_avg_vibration": 0.547,
+    "raw": {
+      "timestamp": "2025-04-09T00:19:03.232199",
+      "node_id": 6,
+      "temperature": 78.63,
+      "vibration": 0.513,
+      "power_draw": 32.71,
+      "humidity": 61.04,
+      "airflow": 1.99,
+      "fan_speed": 926.8,
+      "node_status": "maintenance"
+    }
+  },
+  {
+    "timestamp": "2025-04-09T00:19:03.232199",
+    "node_id": 7,
+    "alerts": [
+      "\ud83d\udd25 High temperature"
+    ],
+    "rolling_avg_vibration": 0.331,
+    "raw": {
+      "timestamp": "2025-04-09T00:19:03.232199",
+      "node_id": 7,
+      "temperature": 77.21,
+      "vibration": 0.199,
+      "power_draw": 65.34,
+      "humidity": 34.59,
+      "airflow": 0.2,
+      "fan_speed": 3258.0,
+      "node_status": "critical"
+    }
+  },
+  {
+    "timestamp": "2025-04-09T00:19:03.232199",
+    "node_id": 10,
+    "alerts": [
+      "\u26a1 High power draw"
+    ],
+    "rolling_avg_vibration": 0.526,
+    "raw": {
+      "timestamp": "2025-04-09T00:19:03.232199",
+      "node_id": 10,
+      "temperature": 62.72,
+      "vibration": 0.851,
+      "power_draw": 95.35,
+      "humidity": 55.0,
+      "airflow": 0.77,
+      "fan_speed": 4506.1,
+      "node_status": "critical"
+    }
+  },
+  {
+    "timestamp": "2025-04-09T00:19:03.232199",
+    "node_id": 11,
+    "alerts": [
+      "\u26a1 High power draw"
+    ],
+    "rolling_avg_vibration": 0.339,
+    "raw": {
+      "timestamp": "2025-04-09T00:19:03.232199",
+      "node_id": 11,
+      "temperature": 44.58,
+      "vibration": 0.333,
+      "power_draw": 94.1,
+      "humidity": 59.81,
+      "airflow": 0.29,
+      "fan_speed": 2937.8,
+      "node_status": "critical"
+    }
+  },
+  {
+    "timestamp": "2025-04-09T00:19:03.232199",
+    "node_id": 18,
+    "alerts": [
+      "\ud83d\udd27 Abnormal vibration (avg)"
+    ],
+    "rolling_avg_vibration": 0.837,
+    "raw": {
+      "timestamp": "2025-04-09T00:19:03.232199",
+      "node_id": 18,
+      "temperature": 44.43,
+      "vibration": 0.75,
+      "power_draw": 37.17,
+      "humidity": 84.07,
+      "airflow": 1.06,
+      "fan_speed": 2941.1,
+      "node_status": "operational"
+    }
+  },
+  {
+    "timestamp": "2025-04-09T00:19:03.232199",
+    "node_id": 20,
+    "alerts": [
+      "\ud83d\udd25 High temperature"
+    ],
+    "rolling_avg_vibration": 0.694,
+    "raw": {
+      "timestamp": "2025-04-09T00:19:03.232199",
+      "node_id": 20,
+      "temperature": 79.94,
+      "vibration": 0.526,
+      "power_draw": 39.67,
+      "humidity": 70.47,
+      "airflow": 0.34,
+      "fan_speed": 4669.2,
+      "node_status": "operational"
+    }
+  },
+  {
+    "timestamp": "2025-04-09T00:20:03.232199",
+    "node_id": 5,
+    "alerts": [
+      "\ud83d\udd25 High temperature"
+    ],
+    "rolling_avg_vibration": 0.467,
+    "raw": {
+      "timestamp": "2025-04-09T00:20:03.232199",
+      "node_id": 5,
+      "temperature": 77.98,
+      "vibration": 0.549,
+      "power_draw": 88.76,
+      "humidity": 71.61,
+      "airflow": 0.49,
+      "fan_speed": 4650.6,
+      "node_status": "critical"
+    }
+  },
+  {
+    "timestamp": "2025-04-09T00:20:03.232199",
+    "node_id": 13,
+    "alerts": [
+      "\ud83d\udd25 High temperature"
+    ],
+    "rolling_avg_vibration": 0.448,
+    "raw": {
+      "timestamp": "2025-04-09T00:20:03.232199",
+      "node_id": 13,
+      "temperature": 79.2,
+      "vibration": 0.856,
+      "power_draw": 86.41,
+      "humidity": 54.18,
+      "airflow": 1.95,
+      "fan_speed": 2649.7,
+      "node_status": "maintenance"
+    }
+  },
+  {
+    "timestamp": "2025-04-09T00:20:03.232199",
+    "node_id": 14,
+    "alerts": [
+      "\u26a1 High power draw"
+    ],
+    "rolling_avg_vibration": 0.689,
+    "raw": {
+      "timestamp": "2025-04-09T00:20:03.232199",
+      "node_id": 14,
+      "temperature": 51.02,
+      "vibration": 0.722,
+      "power_draw": 91.82,
+      "humidity": 89.68,
+      "airflow": 1.21,
+      "fan_speed": 3317.5,
+      "node_status": "operational"
+    }
+  },
+  {
+    "timestamp": "2025-04-09T00:20:03.232199",
+    "node_id": 15,
+    "alerts": [
+      "\u26a1 High power draw"
+    ],
+    "rolling_avg_vibration": 0.599,
+    "raw": {
+      "timestamp": "2025-04-09T00:20:03.232199",
+      "node_id": 15,
+      "temperature": 57.87,
+      "vibration": 0.007,
+      "power_draw": 94.52,
+      "humidity": 84.86,
+      "airflow": 0.47,
+      "fan_speed": 1685.1,
+      "node_status": "critical"
+    }
+  },
+  {
+    "timestamp": "2025-04-09T00:20:03.232199",
+    "node_id": 16,
+    "alerts": [
+      "\ud83d\udd25 High temperature"
+    ],
+    "rolling_avg_vibration": 0.749,
+    "raw": {
+      "timestamp": "2025-04-09T00:20:03.232199",
+      "node_id": 16,
+      "temperature": 76.44,
+      "vibration": 0.849,
+      "power_draw": 51.64,
+      "humidity": 42.55,
+      "airflow": 0.82,
+      "fan_speed": 972.7,
+      "node_status": "critical"
+    }
+  },
+  {
+    "timestamp": "2025-04-09T00:21:03.232199",
+    "node_id": 8,
+    "alerts": [
+      "\ud83d\udd25 High temperature"
+    ],
+    "rolling_avg_vibration": 0.571,
+    "raw": {
+      "timestamp": "2025-04-09T00:21:03.232199",
+      "node_id": 8,
+      "temperature": 75.52,
+      "vibration": 0.049,
+      "power_draw": 62.48,
+      "humidity": 50.11,
+      "airflow": 1.8,
+      "fan_speed": 3863.4,
+      "node_status": "operational"
+    }
+  },
+  {
+    "timestamp": "2025-04-09T00:21:03.232199",
+    "node_id": 12,
+    "alerts": [
+      "\u26a1 High power draw"
+    ],
+    "rolling_avg_vibration": 0.443,
+    "raw": {
+      "timestamp": "2025-04-09T00:21:03.232199",
+      "node_id": 12,
+      "temperature": 59.23,
+      "vibration": 0.982,
+      "power_draw": 92.45,
+      "humidity": 83.09,
+      "airflow": 0.43,
+      "fan_speed": 3018.0,
+      "node_status": "critical"
+    }
+  },
+  {
+    "timestamp": "2025-04-09T00:21:03.232199",
+    "node_id": 17,
+    "alerts": [
+      "\u26a1 High power draw"
+    ],
+    "rolling_avg_vibration": 0.344,
+    "raw": {
+      "timestamp": "2025-04-09T00:21:03.232199",
+      "node_id": 17,
+      "temperature": 34.81,
+      "vibration": 0.181,
+      "power_draw": 93.76,
+      "humidity": 84.91,
+      "airflow": 0.89,
+      "fan_speed": 2460.1,
+      "node_status": "critical"
+    }
+  },
+  {
+    "timestamp": "2025-04-09T00:22:03.232199",
+    "node_id": 2,
+    "alerts": [
+      "\u26a1 High power draw"
+    ],
+    "rolling_avg_vibration": 0.502,
+    "raw": {
+      "timestamp": "2025-04-09T00:22:03.232199",
+      "node_id": 2,
+      "temperature": 34.44,
+      "vibration": 0.658,
+      "power_draw": 99.88,
+      "humidity": 69.32,
+      "airflow": 1.03,
+      "fan_speed": 3818.3,
+      "node_status": "maintenance"
+    }
+  },
+  {
+    "timestamp": "2025-04-09T00:22:03.232199",
+    "node_id": 5,
+    "alerts": [
+      "\ud83d\udd25 High temperature"
+    ],
+    "rolling_avg_vibration": 0.465,
+    "raw": {
+      "timestamp": "2025-04-09T00:22:03.232199",
+      "node_id": 5,
+      "temperature": 78.97,
+      "vibration": 0.167,
+      "power_draw": 31.42,
+      "humidity": 47.32,
+      "airflow": 0.72,
+      "fan_speed": 3623.9,
+      "node_status": "operational"
+    }
+  },
+  {
+    "timestamp": "2025-04-09T00:22:03.232199",
+    "node_id": 6,
+    "alerts": [
+      "\u26a1 High power draw"
+    ],
+    "rolling_avg_vibration": 0.579,
+    "raw": {
+      "timestamp": "2025-04-09T00:22:03.232199",
+      "node_id": 6,
+      "temperature": 28.3,
+      "vibration": 0.878,
+      "power_draw": 96.37,
+      "humidity": 67.52,
+      "airflow": 1.44,
+      "fan_speed": 2594.8,
+      "node_status": "operational"
+    }
+  },
+  {
+    "timestamp": "2025-04-09T00:22:03.232199",
+    "node_id": 13,
+    "alerts": [
+      "\ud83d\udd25 High temperature"
+    ],
+    "rolling_avg_vibration": 0.517,
+    "raw": {
+      "timestamp": "2025-04-09T00:22:03.232199",
+      "node_id": 13,
+      "temperature": 75.98,
+      "vibration": 0.41,
+      "power_draw": 84.77,
+      "humidity": 52.63,
+      "airflow": 0.41,
+      "fan_speed": 2761.2,
+      "node_status": "operational"
+    }
+  },
+  {
+    "timestamp": "2025-04-09T00:22:03.232199",
+    "node_id": 17,
+    "alerts": [
+      "\u26a1 High power draw"
+    ],
+    "rolling_avg_vibration": 0.231,
+    "raw": {
+      "timestamp": "2025-04-09T00:22:03.232199",
+      "node_id": 17,
+      "temperature": 34.12,
+      "vibration": 0.419,
+      "power_draw": 96.63,
+      "humidity": 30.94,
+      "airflow": 1.64,
+      "fan_speed": 3957.6,
+      "node_status": "maintenance"
+    }
+  },
+  {
+    "timestamp": "2025-04-09T00:22:03.232199",
+    "node_id": 20,
+    "alerts": [
+      "\ud83d\udd25 High temperature"
+    ],
+    "rolling_avg_vibration": 0.709,
+    "raw": {
+      "timestamp": "2025-04-09T00:22:03.232199",
+      "node_id": 20,
+      "temperature": 77.95,
+      "vibration": 0.96,
+      "power_draw": 83.98,
+      "humidity": 67.87,
+      "airflow": 1.25,
+      "fan_speed": 3574.8,
+      "node_status": "critical"
+    }
+  },
+  {
+    "timestamp": "2025-04-09T00:23:03.232199",
+    "node_id": 8,
+    "alerts": [
+      "\u26a1 High power draw"
+    ],
+    "rolling_avg_vibration": 0.596,
+    "raw": {
+      "timestamp": "2025-04-09T00:23:03.232199",
+      "node_id": 8,
+      "temperature": 22.98,
+      "vibration": 0.988,
+      "power_draw": 97.79,
+      "humidity": 53.03,
+      "airflow": 1.51,
+      "fan_speed": 826.7,
+      "node_status": "maintenance"
+    }
+  },
+  {
+    "timestamp": "2025-04-09T00:23:03.232199",
+    "node_id": 9,
+    "alerts": [
+      "\u26a1 High power draw"
+    ],
+    "rolling_avg_vibration": 0.336,
+    "raw": {
+      "timestamp": "2025-04-09T00:23:03.232199",
+      "node_id": 9,
+      "temperature": 36.91,
+      "vibration": 0.249,
+      "power_draw": 91.44,
+      "humidity": 45.05,
+      "airflow": 0.13,
+      "fan_speed": 3133.5,
+      "node_status": "maintenance"
+    }
+  },
+  {
+    "timestamp": "2025-04-09T00:23:03.232199",
+    "node_id": 20,
+    "alerts": [
+      "\u26a1 High power draw"
+    ],
+    "rolling_avg_vibration": 0.624,
+    "raw": {
+      "timestamp": "2025-04-09T00:23:03.232199",
+      "node_id": 20,
+      "temperature": 24.23,
+      "vibration": 0.524,
+      "power_draw": 98.3,
+      "humidity": 63.47,
+      "airflow": 1.13,
+      "fan_speed": 2322.0,
+      "node_status": "maintenance"
+    }
+  },
+  {
+    "timestamp": "2025-04-09T00:24:03.232199",
+    "node_id": 11,
+    "alerts": [
+      "\u26a1 High power draw"
+    ],
+    "rolling_avg_vibration": 0.395,
+    "raw": {
+      "timestamp": "2025-04-09T00:24:03.232199",
+      "node_id": 11,
+      "temperature": 48.49,
+      "vibration": 0.154,
+      "power_draw": 99.14,
+      "humidity": 86.72,
+      "airflow": 1.99,
+      "fan_speed": 2391.5,
+      "node_status": "maintenance"
+    }
+  },
+  {
+    "timestamp": "2025-04-09T00:24:03.232199",
+    "node_id": 12,
+    "alerts": [
+      "\u26a1 High power draw"
+    ],
+    "rolling_avg_vibration": 0.678,
+    "raw": {
+      "timestamp": "2025-04-09T00:24:03.232199",
+      "node_id": 12,
+      "temperature": 47.38,
+      "vibration": 0.277,
+      "power_draw": 94.71,
+      "humidity": 36.17,
+      "airflow": 1.1,
+      "fan_speed": 3485.3,
+      "node_status": "operational"
+    }
+  },
+  {
+    "timestamp": "2025-04-09T00:24:03.232199",
+    "node_id": 16,
+    "alerts": [
+      "\u26a1 High power draw"
+    ],
+    "rolling_avg_vibration": 0.473,
+    "raw": {
+      "timestamp": "2025-04-09T00:24:03.232199",
+      "node_id": 16,
+      "temperature": 27.63,
+      "vibration": 0.319,
+      "power_draw": 91.56,
+      "humidity": 56.86,
+      "airflow": 0.66,
+      "fan_speed": 4310.2,
+      "node_status": "critical"
+    }
+  },
+  {
+    "timestamp": "2025-04-09T00:25:03.232199",
+    "node_id": 4,
+    "alerts": [
+      "\u26a1 High power draw"
+    ],
+    "rolling_avg_vibration": 0.46,
+    "raw": {
+      "timestamp": "2025-04-09T00:25:03.232199",
+      "node_id": 4,
+      "temperature": 61.48,
+      "vibration": 1.0,
+      "power_draw": 95.69,
+      "humidity": 42.81,
+      "airflow": 1.77,
+      "fan_speed": 978.9,
+      "node_status": "maintenance"
+    }
+  },
+  {
+    "timestamp": "2025-04-09T00:25:03.232199",
+    "node_id": 5,
+    "alerts": [
+      "\ud83d\udd25 High temperature"
+    ],
+    "rolling_avg_vibration": 0.438,
+    "raw": {
+      "timestamp": "2025-04-09T00:25:03.232199",
+      "node_id": 5,
+      "temperature": 79.36,
+      "vibration": 0.152,
+      "power_draw": 25.66,
+      "humidity": 57.95,
+      "airflow": 0.7,
+      "fan_speed": 3460.1,
+      "node_status": "critical"
+    }
+  },
+  {
+    "timestamp": "2025-04-09T00:25:03.232199",
+    "node_id": 6,
+    "alerts": [
+      "\u26a1 High power draw"
+    ],
+    "rolling_avg_vibration": 0.436,
+    "raw": {
+      "timestamp": "2025-04-09T00:25:03.232199",
+      "node_id": 6,
+      "temperature": 68.86,
+      "vibration": 0.711,
+      "power_draw": 90.04,
+      "humidity": 38.91,
+      "airflow": 1.24,
+      "fan_speed": 2343.3,
+      "node_status": "operational"
+    }
+  },
+  {
+    "timestamp": "2025-04-09T00:25:03.232199",
+    "node_id": 14,
+    "alerts": [
+      "\u26a1 High power draw"
+    ],
+    "rolling_avg_vibration": 0.471,
+    "raw": {
+      "timestamp": "2025-04-09T00:25:03.232199",
+      "node_id": 14,
+      "temperature": 52.13,
+      "vibration": 0.503,
+      "power_draw": 96.68,
+      "humidity": 36.18,
+      "airflow": 1.3,
+      "fan_speed": 1116.9,
+      "node_status": "maintenance"
+    }
+  },
+  {
+    "timestamp": "2025-04-09T00:25:03.232199",
+    "node_id": 16,
+    "alerts": [
+      "\ud83d\udd25 High temperature"
+    ],
+    "rolling_avg_vibration": 0.494,
+    "raw": {
+      "timestamp": "2025-04-09T00:25:03.232199",
+      "node_id": 16,
+      "temperature": 77.61,
+      "vibration": 0.953,
+      "power_draw": 75.03,
+      "humidity": 83.1,
+      "airflow": 0.29,
+      "fan_speed": 1720.5,
+      "node_status": "maintenance"
+    }
+  },
+  {
+    "timestamp": "2025-04-09T00:25:03.232199",
+    "node_id": 18,
+    "alerts": [
+      "\ud83d\udd25 High temperature"
+    ],
+    "rolling_avg_vibration": 0.417,
+    "raw": {
+      "timestamp": "2025-04-09T00:25:03.232199",
+      "node_id": 18,
+      "temperature": 78.5,
+      "vibration": 0.45,
+      "power_draw": 76.69,
+      "humidity": 38.32,
+      "airflow": 0.36,
+      "fan_speed": 4044.4,
+      "node_status": "maintenance"
+    }
+  },
+  {
+    "timestamp": "2025-04-09T00:26:03.232199",
+    "node_id": 7,
+    "alerts": [
+      "\u26a1 High power draw"
+    ],
+    "rolling_avg_vibration": 0.387,
+    "raw": {
+      "timestamp": "2025-04-09T00:26:03.232199",
+      "node_id": 7,
+      "temperature": 47.17,
+      "vibration": 0.487,
+      "power_draw": 98.39,
+      "humidity": 39.4,
+      "airflow": 1.58,
+      "fan_speed": 3827.3,
+      "node_status": "operational"
+    }
+  },
+  {
+    "timestamp": "2025-04-09T00:26:03.232199",
+    "node_id": 16,
+    "alerts": [
+      "\ud83d\udd25 High temperature"
+    ],
+    "rolling_avg_vibration": 0.482,
+    "raw": {
+      "timestamp": "2025-04-09T00:26:03.232199",
+      "node_id": 16,
+      "temperature": 77.52,
+      "vibration": 0.348,
+      "power_draw": 16.87,
+      "humidity": 85.35,
+      "airflow": 1.7,
+      "fan_speed": 4376.1,
+      "node_status": "operational"
+    }
+  },
+  {
+    "timestamp": "2025-04-09T00:26:03.232199",
+    "node_id": 20,
+    "alerts": [
+      "\ud83d\udd25 High temperature"
+    ],
+    "rolling_avg_vibration": 0.583,
+    "raw": {
+      "timestamp": "2025-04-09T00:26:03.232199",
+      "node_id": 20,
+      "temperature": 77.88,
+      "vibration": 0.722,
+      "power_draw": 31.96,
+      "humidity": 46.94,
+      "airflow": 0.29,
+      "fan_speed": 4018.9,
+      "node_status": "maintenance"
+    }
+  },
+  {
+    "timestamp": "2025-04-09T00:27:03.232199",
+    "node_id": 7,
+    "alerts": [
+      "\u26a1 High power draw"
+    ],
+    "rolling_avg_vibration": 0.412,
+    "raw": {
+      "timestamp": "2025-04-09T00:27:03.232199",
+      "node_id": 7,
+      "temperature": 49.12,
+      "vibration": 0.189,
+      "power_draw": 94.52,
+      "humidity": 86.59,
+      "airflow": 1.76,
+      "fan_speed": 824.8,
+      "node_status": "operational"
+    }
+  },
+  {
+    "timestamp": "2025-04-09T00:27:03.232199",
+    "node_id": 19,
+    "alerts": [
+      "\ud83d\udd25 High temperature"
+    ],
+    "rolling_avg_vibration": 0.677,
+    "raw": {
+      "timestamp": "2025-04-09T00:27:03.232199",
+      "node_id": 19,
+      "temperature": 75.86,
+      "vibration": 0.78,
+      "power_draw": 48.48,
+      "humidity": 60.39,
+      "airflow": 0.87,
+      "fan_speed": 4900.1,
+      "node_status": "critical"
+    }
+  },
+  {
+    "timestamp": "2025-04-09T00:28:03.232199",
+    "node_id": 5,
+    "alerts": [
+      "\u26a1 High power draw"
+    ],
+    "rolling_avg_vibration": 0.557,
+    "raw": {
+      "timestamp": "2025-04-09T00:28:03.232199",
+      "node_id": 5,
+      "temperature": 62.35,
+      "vibration": 0.602,
+      "power_draw": 94.13,
+      "humidity": 34.66,
+      "airflow": 1.74,
+      "fan_speed": 4278.3,
+      "node_status": "operational"
+    }
+  },
+  {
+    "timestamp": "2025-04-09T00:28:03.232199",
+    "node_id": 8,
+    "alerts": [
+      "\ud83d\udd25 High temperature"
+    ],
+    "rolling_avg_vibration": 0.471,
+    "raw": {
+      "timestamp": "2025-04-09T00:28:03.232199",
+      "node_id": 8,
+      "temperature": 77.33,
+      "vibration": 0.374,
+      "power_draw": 37.72,
+      "humidity": 76.96,
+      "airflow": 0.21,
+      "fan_speed": 2143.9,
+      "node_status": "operational"
+    }
+  },
+  {
+    "timestamp": "2025-04-09T00:29:03.232199",
+    "node_id": 1,
+    "alerts": [
+      "\ud83d\udd25 High temperature"
+    ],
+    "rolling_avg_vibration": 0.284,
+    "raw": {
+      "timestamp": "2025-04-09T00:29:03.232199",
+      "node_id": 1,
+      "temperature": 77.45,
+      "vibration": 0.024,
+      "power_draw": 81.76,
+      "humidity": 71.29,
+      "airflow": 1.48,
+      "fan_speed": 1257.9,
+      "node_status": "maintenance"
+    }
+  },
+  {
+    "timestamp": "2025-04-09T00:29:03.232199",
+    "node_id": 8,
+    "alerts": [
+      "\ud83d\udd25 High temperature"
+    ],
+    "rolling_avg_vibration": 0.441,
+    "raw": {
+      "timestamp": "2025-04-09T00:29:03.232199",
+      "node_id": 8,
+      "temperature": 78.89,
+      "vibration": 0.388,
+      "power_draw": 12.58,
+      "humidity": 71.05,
+      "airflow": 0.39,
+      "fan_speed": 616.5,
+      "node_status": "operational"
+    }
+  },
+  {
+    "timestamp": "2025-04-09T00:29:03.232199",
+    "node_id": 11,
+    "alerts": [
+      "\u26a1 High power draw"
+    ],
+    "rolling_avg_vibration": 0.32,
+    "raw": {
+      "timestamp": "2025-04-09T00:29:03.232199",
+      "node_id": 11,
+      "temperature": 29.62,
+      "vibration": 0.37,
+      "power_draw": 91.25,
+      "humidity": 35.64,
+      "airflow": 0.76,
+      "fan_speed": 1859.3,
+      "node_status": "critical"
+    }
+  },
+  {
+    "timestamp": "2025-04-09T00:29:03.232199",
+    "node_id": 12,
+    "alerts": [
+      "\ud83d\udd25 High temperature"
+    ],
+    "rolling_avg_vibration": 0.488,
+    "raw": {
+      "timestamp": "2025-04-09T00:29:03.232199",
+      "node_id": 12,
+      "temperature": 76.49,
+      "vibration": 0.285,
+      "power_draw": 37.01,
+      "humidity": 54.11,
+      "airflow": 0.17,
+      "fan_speed": 1074.3,
+      "node_status": "maintenance"
+    }
+  },
+  {
+    "timestamp": "2025-04-09T00:29:03.232199",
+    "node_id": 18,
+    "alerts": [
+      "\ud83d\udd25 High temperature"
+    ],
+    "rolling_avg_vibration": 0.668,
+    "raw": {
+      "timestamp": "2025-04-09T00:29:03.232199",
+      "node_id": 18,
+      "temperature": 75.45,
+      "vibration": 0.421,
+      "power_draw": 25.82,
+      "humidity": 75.25,
+      "airflow": 0.66,
+      "fan_speed": 1939.0,
+      "node_status": "operational"
+    }
+  },
+  {
+    "timestamp": "2025-04-09T00:30:03.232199",
+    "node_id": 1,
+    "alerts": [
+      "\ud83d\udd25 High temperature"
+    ],
+    "rolling_avg_vibration": 0.321,
+    "raw": {
+      "timestamp": "2025-04-09T00:30:03.232199",
+      "node_id": 1,
+      "temperature": 78.18,
+      "vibration": 0.428,
+      "power_draw": 22.48,
+      "humidity": 80.52,
+      "airflow": 1.59,
+      "fan_speed": 4666.2,
+      "node_status": "operational"
+    }
+  },
+  {
+    "timestamp": "2025-04-09T00:30:03.232199",
+    "node_id": 3,
+    "alerts": [
+      "\ud83d\udd25 High temperature"
+    ],
+    "rolling_avg_vibration": 0.345,
+    "raw": {
+      "timestamp": "2025-04-09T00:30:03.232199",
+      "node_id": 3,
+      "temperature": 78.77,
+      "vibration": 0.019,
+      "power_draw": 72.62,
+      "humidity": 85.53,
+      "airflow": 0.23,
+      "fan_speed": 3045.6,
+      "node_status": "operational"
+    }
+  },
+  {
+    "timestamp": "2025-04-09T00:30:03.232199",
+    "node_id": 4,
+    "alerts": [
+      "\u26a1 High power draw"
+    ],
+    "rolling_avg_vibration": 0.52,
+    "raw": {
+      "timestamp": "2025-04-09T00:30:03.232199",
+      "node_id": 4,
+      "temperature": 39.81,
+      "vibration": 0.747,
+      "power_draw": 92.7,
+      "humidity": 82.55,
+      "airflow": 1.08,
+      "fan_speed": 1957.8,
+      "node_status": "operational"
+    }
+  },
+  {
+    "timestamp": "2025-04-09T00:30:03.232199",
+    "node_id": 14,
+    "alerts": [
+      "\u26a1 High power draw"
+    ],
+    "rolling_avg_vibration": 0.362,
+    "raw": {
+      "timestamp": "2025-04-09T00:30:03.232199",
+      "node_id": 14,
+      "temperature": 67.71,
+      "vibration": 0.187,
+      "power_draw": 97.84,
+      "humidity": 37.74,
+      "airflow": 1.88,
+      "fan_speed": 1968.5,
+      "node_status": "operational"
+    }
+  },
+  {
+    "timestamp": "2025-04-09T00:30:03.232199",
+    "node_id": 16,
+    "alerts": [
+      "\u26a1 High power draw"
+    ],
+    "rolling_avg_vibration": 0.369,
+    "raw": {
+      "timestamp": "2025-04-09T00:30:03.232199",
+      "node_id": 16,
+      "temperature": 27.06,
+      "vibration": 0.779,
+      "power_draw": 90.63,
+      "humidity": 85.35,
+      "airflow": 1.94,
+      "fan_speed": 2767.4,
+      "node_status": "maintenance"
+    }
+  },
+  {
+    "timestamp": "2025-04-09T00:30:03.232199",
+    "node_id": 17,
+    "alerts": [
+      "\u26a1 High power draw"
+    ],
+    "rolling_avg_vibration": 0.519,
+    "raw": {
+      "timestamp": "2025-04-09T00:30:03.232199",
+      "node_id": 17,
+      "temperature": 45.21,
+      "vibration": 0.419,
+      "power_draw": 90.65,
+      "humidity": 52.89,
+      "airflow": 1.77,
+      "fan_speed": 3176.1,
+      "node_status": "operational"
+    }
+  },
+  {
+    "timestamp": "2025-04-09T00:31:03.232199",
+    "node_id": 4,
+    "alerts": [
+      "\u26a1 High power draw"
+    ],
+    "rolling_avg_vibration": 0.574,
+    "raw": {
+      "timestamp": "2025-04-09T00:31:03.232199",
+      "node_id": 4,
+      "temperature": 73.12,
+      "vibration": 0.822,
+      "power_draw": 94.82,
+      "humidity": 44.35,
+      "airflow": 1.35,
+      "fan_speed": 4124.5,
+      "node_status": "critical"
+    }
+  },
+  {
+    "timestamp": "2025-04-09T00:31:03.232199",
+    "node_id": 13,
+    "alerts": [
+      "\u26a1 High power draw"
+    ],
+    "rolling_avg_vibration": 0.498,
+    "raw": {
+      "timestamp": "2025-04-09T00:31:03.232199",
+      "node_id": 13,
+      "temperature": 34.41,
+      "vibration": 0.622,
+      "power_draw": 92.02,
+      "humidity": 51.36,
+      "airflow": 1.02,
+      "fan_speed": 3430.4,
+      "node_status": "critical"
+    }
+  },
+  {
+    "timestamp": "2025-04-09T00:32:03.232199",
+    "node_id": 6,
+    "alerts": [
+      "\ud83d\udd25 High temperature"
+    ],
+    "rolling_avg_vibration": 0.542,
+    "raw": {
+      "timestamp": "2025-04-09T00:32:03.232199",
+      "node_id": 6,
+      "temperature": 76.65,
+      "vibration": 0.999,
+      "power_draw": 20.72,
+      "humidity": 46.4,
+      "airflow": 1.66,
+      "fan_speed": 4640.9,
+      "node_status": "operational"
+    }
+  },
+  {
+    "timestamp": "2025-04-09T00:32:03.232199",
+    "node_id": 11,
+    "alerts": [
+      "\u26a1 High power draw"
+    ],
+    "rolling_avg_vibration": 0.52,
+    "raw": {
+      "timestamp": "2025-04-09T00:32:03.232199",
+      "node_id": 11,
+      "temperature": 49.81,
+      "vibration": 0.746,
+      "power_draw": 94.61,
+      "humidity": 66.87,
+      "airflow": 0.1,
+      "fan_speed": 571.3,
+      "node_status": "critical"
+    }
+  },
+  {
+    "timestamp": "2025-04-09T00:32:03.232199",
+    "node_id": 20,
+    "alerts": [
+      "\u26a1 High power draw"
+    ],
+    "rolling_avg_vibration": 0.558,
+    "raw": {
+      "timestamp": "2025-04-09T00:32:03.232199",
+      "node_id": 20,
+      "temperature": 37.35,
+      "vibration": 0.475,
+      "power_draw": 97.77,
+      "humidity": 74.66,
+      "airflow": 0.48,
+      "fan_speed": 2954.3,
+      "node_status": "maintenance"
+    }
+  },
+  {
+    "timestamp": "2025-04-09T00:33:03.232199",
+    "node_id": 2,
+    "alerts": [
+      "\u26a1 High power draw"
+    ],
+    "rolling_avg_vibration": 0.556,
+    "raw": {
+      "timestamp": "2025-04-09T00:33:03.232199",
+      "node_id": 2,
+      "temperature": 60.88,
+      "vibration": 0.571,
+      "power_draw": 93.28,
+      "humidity": 89.36,
+      "airflow": 0.83,
+      "fan_speed": 2651.0,
+      "node_status": "critical"
+    }
+  },
+  {
+    "timestamp": "2025-04-09T00:33:03.232199",
+    "node_id": 5,
+    "alerts": [
+      "\ud83d\udd25 High temperature"
+    ],
+    "rolling_avg_vibration": 0.502,
+    "raw": {
+      "timestamp": "2025-04-09T00:33:03.232199",
+      "node_id": 5,
+      "temperature": 78.12,
+      "vibration": 0.396,
+      "power_draw": 22.05,
+      "humidity": 64.99,
+      "airflow": 0.62,
+      "fan_speed": 1463.5,
+      "node_status": "maintenance"
+    }
+  },
+  {
+    "timestamp": "2025-04-09T00:33:03.232199",
+    "node_id": 6,
+    "alerts": [
+      "\u26a1 High power draw"
+    ],
+    "rolling_avg_vibration": 0.555,
+    "raw": {
+      "timestamp": "2025-04-09T00:33:03.232199",
+      "node_id": 6,
+      "temperature": 47.39,
+      "vibration": 0.202,
+      "power_draw": 95.77,
+      "humidity": 75.39,
+      "airflow": 1.22,
+      "fan_speed": 3914.3,
+      "node_status": "operational"
+    }
+  },
+  {
+    "timestamp": "2025-04-09T00:33:03.232199",
+    "node_id": 14,
+    "alerts": [
+      "\ud83d\udd25 High temperature"
+    ],
+    "rolling_avg_vibration": 0.407,
+    "raw": {
+      "timestamp": "2025-04-09T00:33:03.232199",
+      "node_id": 14,
+      "temperature": 78.1,
+      "vibration": 0.816,
+      "power_draw": 63.65,
+      "humidity": 59.54,
+      "airflow": 1.34,
+      "fan_speed": 3279.4,
+      "node_status": "operational"
+    }
+  },
+  {
+    "timestamp": "2025-04-09T00:33:03.232199",
+    "node_id": 16,
+    "alerts": [
+      "\u26a1 High power draw"
+    ],
+    "rolling_avg_vibration": 0.476,
+    "raw": {
+      "timestamp": "2025-04-09T00:33:03.232199",
+      "node_id": 16,
+      "temperature": 43.15,
+      "vibration": 0.815,
+      "power_draw": 98.29,
+      "humidity": 59.51,
+      "airflow": 1.22,
+      "fan_speed": 725.8,
+      "node_status": "critical"
+    }
+  },
+  {
+    "timestamp": "2025-04-09T00:34:03.232199",
+    "node_id": 12,
+    "alerts": [
+      "\u26a1 High power draw"
+    ],
+    "rolling_avg_vibration": 0.49,
+    "raw": {
+      "timestamp": "2025-04-09T00:34:03.232199",
+      "node_id": 12,
+      "temperature": 69.2,
+      "vibration": 0.349,
+      "power_draw": 93.12,
+      "humidity": 56.29,
+      "airflow": 1.99,
+      "fan_speed": 1532.2,
+      "node_status": "operational"
+    }
+  },
+  {
+    "timestamp": "2025-04-09T00:34:03.232199",
+    "node_id": 20,
+    "alerts": [
+      "\u26a1 High power draw"
+    ],
+    "rolling_avg_vibration": 0.573,
+    "raw": {
+      "timestamp": "2025-04-09T00:34:03.232199",
+      "node_id": 20,
+      "temperature": 26.49,
+      "vibration": 0.017,
+      "power_draw": 90.33,
+      "humidity": 44.13,
+      "airflow": 0.66,
+      "fan_speed": 2182.8,
+      "node_status": "operational"
+    }
+  },
+  {
+    "timestamp": "2025-04-09T00:35:03.232199",
+    "node_id": 16,
+    "alerts": [
+      "\u26a1 High power draw"
+    ],
+    "rolling_avg_vibration": 0.461,
+    "raw": {
+      "timestamp": "2025-04-09T00:35:03.232199",
+      "node_id": 16,
+      "temperature": 56.74,
+      "vibration": 0.32,
+      "power_draw": 90.49,
+      "humidity": 51.07,
+      "airflow": 1.25,
+      "fan_speed": 3505.0,
+      "node_status": "operational"
+    }
+  },
+  {
+    "timestamp": "2025-04-09T00:36:03.232199",
+    "node_id": 3,
+    "alerts": [
+      "\ud83d\udd25 High temperature"
+    ],
+    "rolling_avg_vibration": 0.524,
+    "raw": {
+      "timestamp": "2025-04-09T00:36:03.232199",
+      "node_id": 3,
+      "temperature": 78.53,
+      "vibration": 0.283,
+      "power_draw": 73.82,
+      "humidity": 31.35,
+      "airflow": 1.21,
+      "fan_speed": 3484.7,
+      "node_status": "operational"
+    }
+  },
+  {
+    "timestamp": "2025-04-09T00:36:03.232199",
+    "node_id": 6,
+    "alerts": [
+      "\ud83d\udd25 High temperature"
+    ],
+    "rolling_avg_vibration": 0.617,
+    "raw": {
+      "timestamp": "2025-04-09T00:36:03.232199",
+      "node_id": 6,
+      "temperature": 76.31,
+      "vibration": 0.808,
+      "power_draw": 69.76,
+      "humidity": 76.74,
+      "airflow": 0.45,
+      "fan_speed": 4236.6,
+      "node_status": "critical"
+    }
+  },
+  {
+    "timestamp": "2025-04-09T00:36:03.232199",
+    "node_id": 7,
+    "alerts": [
+      "\u26a1 High power draw"
+    ],
+    "rolling_avg_vibration": 0.454,
+    "raw": {
+      "timestamp": "2025-04-09T00:36:03.232199",
+      "node_id": 7,
+      "temperature": 74.75,
+      "vibration": 0.849,
+      "power_draw": 99.83,
+      "humidity": 30.71,
+      "airflow": 1.66,
+      "fan_speed": 1079.8,
+      "node_status": "critical"
+    }
+  },
+  {
+    "timestamp": "2025-04-09T00:36:03.232199",
+    "node_id": 13,
+    "alerts": [
+      "\ud83d\udd25 High temperature"
+    ],
+    "rolling_avg_vibration": 0.497,
+    "raw": {
+      "timestamp": "2025-04-09T00:36:03.232199",
+      "node_id": 13,
+      "temperature": 79.64,
+      "vibration": 0.474,
+      "power_draw": 80.53,
+      "humidity": 32.98,
+      "airflow": 1.77,
+      "fan_speed": 4882.9,
+      "node_status": "operational"
+    }
+  },
+  {
+    "timestamp": "2025-04-09T00:36:03.232199",
+    "node_id": 16,
+    "alerts": [
+      "\ud83d\udd25 High temperature"
+    ],
+    "rolling_avg_vibration": 0.361,
+    "raw": {
+      "timestamp": "2025-04-09T00:36:03.232199",
+      "node_id": 16,
+      "temperature": 75.61,
+      "vibration": 0.072,
+      "power_draw": 44.03,
+      "humidity": 87.87,
+      "airflow": 1.18,
+      "fan_speed": 1914.7,
+      "node_status": "operational"
+    }
+  },
+  {
+    "timestamp": "2025-04-09T00:36:03.232199",
+    "node_id": 20,
+    "alerts": [
+      "\ud83d\udd25 High temperature"
+    ],
+    "rolling_avg_vibration": 0.355,
+    "raw": {
+      "timestamp": "2025-04-09T00:36:03.232199",
+      "node_id": 20,
+      "temperature": 77.56,
+      "vibration": 0.26,
+      "power_draw": 49.91,
+      "humidity": 37.63,
+      "airflow": 0.48,
+      "fan_speed": 2562.1,
+      "node_status": "operational"
+    }
+  },
+  {
+    "timestamp": "2025-04-09T00:37:03.232199",
+    "node_id": 1,
+    "alerts": [
+      "\u26a1 High power draw"
+    ],
+    "rolling_avg_vibration": 0.603,
+    "raw": {
+      "timestamp": "2025-04-09T00:37:03.232199",
+      "node_id": 1,
+      "temperature": 56.55,
+      "vibration": 0.458,
+      "power_draw": 97.71,
+      "humidity": 69.75,
+      "airflow": 0.1,
+      "fan_speed": 3600.9,
+      "node_status": "operational"
+    }
+  },
+  {
+    "timestamp": "2025-04-09T00:37:03.232199",
+    "node_id": 7,
+    "alerts": [
+      "\u26a1 High power draw"
+    ],
+    "rolling_avg_vibration": 0.493,
+    "raw": {
+      "timestamp": "2025-04-09T00:37:03.232199",
+      "node_id": 7,
+      "temperature": 66.4,
+      "vibration": 0.68,
+      "power_draw": 99.21,
+      "humidity": 39.21,
+      "airflow": 1.98,
+      "fan_speed": 2880.0,
+      "node_status": "critical"
+    }
+  },
+  {
+    "timestamp": "2025-04-09T00:37:03.232199",
+    "node_id": 9,
+    "alerts": [
+      "\ud83d\udd25 High temperature"
+    ],
+    "rolling_avg_vibration": 0.522,
+    "raw": {
+      "timestamp": "2025-04-09T00:37:03.232199",
+      "node_id": 9,
+      "temperature": 78.17,
+      "vibration": 0.504,
+      "power_draw": 73.87,
+      "humidity": 48.83,
+      "airflow": 1.07,
+      "fan_speed": 949.5,
+      "node_status": "maintenance"
+    }
+  },
+  {
+    "timestamp": "2025-04-09T00:37:03.232199",
+    "node_id": 19,
+    "alerts": [
+      "\u26a1 High power draw"
+    ],
+    "rolling_avg_vibration": 0.439,
+    "raw": {
+      "timestamp": "2025-04-09T00:37:03.232199",
+      "node_id": 19,
+      "temperature": 34.53,
+      "vibration": 0.27,
+      "power_draw": 93.25,
+      "humidity": 33.81,
+      "airflow": 1.48,
+      "fan_speed": 4057.1,
+      "node_status": "operational"
+    }
+  },
+  {
+    "timestamp": "2025-04-09T00:37:03.232199",
+    "node_id": 20,
+    "alerts": [
+      "\u26a1 High power draw"
+    ],
+    "rolling_avg_vibration": 0.276,
+    "raw": {
+      "timestamp": "2025-04-09T00:37:03.232199",
+      "node_id": 20,
+      "temperature": 36.29,
+      "vibration": 0.08,
+      "power_draw": 91.71,
+      "humidity": 42.55,
+      "airflow": 1.07,
+      "fan_speed": 4524.2,
+      "node_status": "operational"
+    }
+  },
+  {
+    "timestamp": "2025-04-09T00:38:03.232199",
+    "node_id": 2,
+    "alerts": [
+      "\u26a1 High power draw"
+    ],
+    "rolling_avg_vibration": 0.653,
+    "raw": {
+      "timestamp": "2025-04-09T00:38:03.232199",
+      "node_id": 2,
+      "temperature": 33.72,
+      "vibration": 0.803,
+      "power_draw": 98.89,
+      "humidity": 62.57,
+      "airflow": 1.35,
+      "fan_speed": 4693.3,
+      "node_status": "operational"
+    }
+  },
+  {
+    "timestamp": "2025-04-09T00:38:03.232199",
+    "node_id": 4,
+    "alerts": [
+      "\ud83d\udd25 High temperature"
+    ],
+    "rolling_avg_vibration": 0.347,
+    "raw": {
+      "timestamp": "2025-04-09T00:38:03.232199",
+      "node_id": 4,
+      "temperature": 79.35,
+      "vibration": 0.33,
+      "power_draw": 37.76,
+      "humidity": 68.63,
+      "airflow": 0.9,
+      "fan_speed": 3904.1,
+      "node_status": "operational"
+    }
+  },
+  {
+    "timestamp": "2025-04-09T00:38:03.232199",
+    "node_id": 11,
+    "alerts": [
+      "\ud83d\udd25 High temperature"
+    ],
+    "rolling_avg_vibration": 0.515,
+    "raw": {
+      "timestamp": "2025-04-09T00:38:03.232199",
+      "node_id": 11,
+      "temperature": 75.07,
+      "vibration": 0.1,
+      "power_draw": 74.94,
+      "humidity": 84.82,
+      "airflow": 1.69,
+      "fan_speed": 3029.8,
+      "node_status": "critical"
+    }
+  },
+  {
+    "timestamp": "2025-04-09T00:38:03.232199",
+    "node_id": 13,
+    "alerts": [
+      "\u26a1 High power draw"
+    ],
+    "rolling_avg_vibration": 0.701,
+    "raw": {
+      "timestamp": "2025-04-09T00:38:03.232199",
+      "node_id": 13,
+      "temperature": 66.51,
+      "vibration": 0.909,
+      "power_draw": 93.19,
+      "humidity": 77.67,
+      "airflow": 1.15,
+      "fan_speed": 861.0,
+      "node_status": "maintenance"
+    }
+  },
+  {
+    "timestamp": "2025-04-09T00:38:03.232199",
+    "node_id": 14,
+    "alerts": [
+      "\u26a1 High power draw"
+    ],
+    "rolling_avg_vibration": 0.583,
+    "raw": {
+      "timestamp": "2025-04-09T00:38:03.232199",
+      "node_id": 14,
+      "temperature": 46.29,
+      "vibration": 0.251,
+      "power_draw": 91.18,
+      "humidity": 74.13,
+      "airflow": 0.84,
+      "fan_speed": 1081.7,
+      "node_status": "operational"
+    }
+  },
+  {
+    "timestamp": "2025-04-09T00:38:03.232199",
+    "node_id": 17,
+    "alerts": [
+      "\ud83d\udd25 High temperature"
+    ],
+    "rolling_avg_vibration": 0.695,
+    "raw": {
+      "timestamp": "2025-04-09T00:38:03.232199",
+      "node_id": 17,
+      "temperature": 77.96,
+      "vibration": 0.939,
+      "power_draw": 14.57,
+      "humidity": 63.79,
+      "airflow": 1.08,
+      "fan_speed": 4135.5,
+      "node_status": "operational"
+    }
+  },
+  {
+    "timestamp": "2025-04-09T00:39:03.232199",
+    "node_id": 9,
+    "alerts": [
+      "\u26a1 High power draw"
+    ],
+    "rolling_avg_vibration": 0.422,
+    "raw": {
+      "timestamp": "2025-04-09T00:39:03.232199",
+      "node_id": 9,
+      "temperature": 48.46,
+      "vibration": 0.255,
+      "power_draw": 99.36,
+      "humidity": 68.7,
+      "airflow": 0.75,
+      "fan_speed": 4573.6,
+      "node_status": "operational"
+    }
+  },
+  {
+    "timestamp": "2025-04-09T00:39:03.232199",
+    "node_id": 16,
+    "alerts": [
+      "\ud83d\udd25 High temperature"
+    ],
+    "rolling_avg_vibration": 0.309,
+    "raw": {
+      "timestamp": "2025-04-09T00:39:03.232199",
+      "node_id": 16,
+      "temperature": 75.99,
+      "vibration": 0.475,
+      "power_draw": 71.26,
+      "humidity": 79.89,
+      "airflow": 1.02,
+      "fan_speed": 4355.1,
+      "node_status": "operational"
+    }
+  },
+  {
+    "timestamp": "2025-04-09T00:39:03.232199",
+    "node_id": 19,
+    "alerts": [
+      "\u26a1 High power draw"
+    ],
+    "rolling_avg_vibration": 0.559,
+    "raw": {
+      "timestamp": "2025-04-09T00:39:03.232199",
+      "node_id": 19,
+      "temperature": 23.62,
+      "vibration": 0.608,
+      "power_draw": 92.16,
+      "humidity": 89.44,
+      "airflow": 0.97,
+      "fan_speed": 578.4,
+      "node_status": "operational"
+    }
+  },
+  {
+    "timestamp": "2025-04-09T00:39:03.232199",
+    "node_id": 20,
+    "alerts": [
+      "\u26a1 High power draw"
+    ],
+    "rolling_avg_vibration": 0.253,
+    "raw": {
+      "timestamp": "2025-04-09T00:39:03.232199",
+      "node_id": 20,
+      "temperature": 47.38,
+      "vibration": 0.243,
+      "power_draw": 96.09,
+      "humidity": 57.17,
+      "airflow": 1.14,
+      "fan_speed": 2205.3,
+      "node_status": "critical"
+    }
+  },
+  {
+    "timestamp": "2025-04-09T00:40:03.232199",
+    "node_id": 12,
+    "alerts": [
+      "\u26a1 High power draw"
+    ],
+    "rolling_avg_vibration": 0.596,
+    "raw": {
+      "timestamp": "2025-04-09T00:40:03.232199",
+      "node_id": 12,
+      "temperature": 41.55,
+      "vibration": 0.215,
+      "power_draw": 97.61,
+      "humidity": 56.41,
+      "airflow": 0.59,
+      "fan_speed": 1964.0,
+      "node_status": "critical"
+    }
+  },
+  {
+    "timestamp": "2025-04-09T00:40:03.232199",
+    "node_id": 17,
+    "alerts": [
+      "\ud83d\udd27 Abnormal vibration (avg)"
+    ],
+    "rolling_avg_vibration": 0.908,
+    "raw": {
+      "timestamp": "2025-04-09T00:40:03.232199",
+      "node_id": 17,
+      "temperature": 73.94,
+      "vibration": 0.98,
+      "power_draw": 66.76,
+      "humidity": 33.67,
+      "airflow": 1.99,
+      "fan_speed": 4449.2,
+      "node_status": "critical"
+    }
+  },
+  {
+    "timestamp": "2025-04-09T00:40:03.232199",
+    "node_id": 18,
+    "alerts": [
+      "\ud83d\udd25 High temperature"
+    ],
+    "rolling_avg_vibration": 0.44,
+    "raw": {
+      "timestamp": "2025-04-09T00:40:03.232199",
+      "node_id": 18,
+      "temperature": 78.11,
+      "vibration": 0.614,
+      "power_draw": 25.29,
+      "humidity": 34.83,
+      "airflow": 0.32,
+      "fan_speed": 1435.6,
+      "node_status": "maintenance"
+    }
+  },
+  {
+    "timestamp": "2025-04-09T00:41:03.232199",
+    "node_id": 13,
+    "alerts": [
+      "\u26a1 High power draw"
+    ],
+    "rolling_avg_vibration": 0.633,
+    "raw": {
+      "timestamp": "2025-04-09T00:41:03.232199",
+      "node_id": 13,
+      "temperature": 66.97,
+      "vibration": 0.819,
+      "power_draw": 91.88,
+      "humidity": 46.88,
+      "airflow": 0.51,
+      "fan_speed": 2679.8,
+      "node_status": "critical"
+    }
+  },
+  {
+    "timestamp": "2025-04-09T00:41:03.232199",
+    "node_id": 14,
+    "alerts": [
+      "\u26a1 High power draw"
+    ],
+    "rolling_avg_vibration": 0.449,
+    "raw": {
+      "timestamp": "2025-04-09T00:41:03.232199",
+      "node_id": 14,
+      "temperature": 64.2,
+      "vibration": 0.686,
+      "power_draw": 95.92,
+      "humidity": 42.75,
+      "airflow": 1.37,
+      "fan_speed": 828.1,
+      "node_status": "critical"
+    }
+  },
+  {
+    "timestamp": "2025-04-09T00:41:03.232199",
+    "node_id": 17,
+    "alerts": [
+      "\ud83d\udd27 Abnormal vibration (avg)"
+    ],
+    "rolling_avg_vibration": 0.879,
+    "raw": {
+      "timestamp": "2025-04-09T00:41:03.232199",
+      "node_id": 17,
+      "temperature": 52.37,
+      "vibration": 0.744,
+      "power_draw": 44.08,
+      "humidity": 84.5,
+      "airflow": 0.97,
+      "fan_speed": 2024.6,
+      "node_status": "operational"
+    }
+  },
+  {
+    "timestamp": "2025-04-09T00:42:03.232199",
+    "node_id": 5,
+    "alerts": [
+      "\u26a1 High power draw"
+    ],
+    "rolling_avg_vibration": 0.455,
+    "raw": {
+      "timestamp": "2025-04-09T00:42:03.232199",
+      "node_id": 5,
+      "temperature": 49.23,
+      "vibration": 0.095,
+      "power_draw": 92.09,
+      "humidity": 34.13,
+      "airflow": 1.59,
+      "fan_speed": 1070.5,
+      "node_status": "critical"
+    }
+  },
+  {
+    "timestamp": "2025-04-09T00:43:03.232199",
+    "node_id": 2,
+    "alerts": [
+      "\ud83d\udd25 High temperature"
+    ],
+    "rolling_avg_vibration": 0.504,
+    "raw": {
+      "timestamp": "2025-04-09T00:43:03.232199",
+      "node_id": 2,
+      "temperature": 78.44,
+      "vibration": 0.212,
+      "power_draw": 48.63,
+      "humidity": 77.83,
+      "airflow": 1.75,
+      "fan_speed": 788.9,
+      "node_status": "maintenance"
+    }
+  },
+  {
+    "timestamp": "2025-04-09T00:43:03.232199",
+    "node_id": 10,
+    "alerts": [
+      "\u26a1 High power draw"
+    ],
+    "rolling_avg_vibration": 0.393,
+    "raw": {
+      "timestamp": "2025-04-09T00:43:03.232199",
+      "node_id": 10,
+      "temperature": 55.06,
+      "vibration": 0.111,
+      "power_draw": 91.27,
+      "humidity": 73.76,
+      "airflow": 1.06,
+      "fan_speed": 1824.1,
+      "node_status": "critical"
+    }
+  },
+  {
+    "timestamp": "2025-04-09T00:44:03.232199",
+    "node_id": 3,
+    "alerts": [
+      "\u26a1 High power draw"
+    ],
+    "rolling_avg_vibration": 0.254,
+    "raw": {
+      "timestamp": "2025-04-09T00:44:03.232199",
+      "node_id": 3,
+      "temperature": 41.6,
+      "vibration": 0.13,
+      "power_draw": 95.11,
+      "humidity": 86.13,
+      "airflow": 1.12,
+      "fan_speed": 4383.2,
+      "node_status": "maintenance"
+    }
+  },
+  {
+    "timestamp": "2025-04-09T00:44:03.232199",
+    "node_id": 15,
+    "alerts": [
+      "\u26a1 High power draw"
+    ],
+    "rolling_avg_vibration": 0.622,
+    "raw": {
+      "timestamp": "2025-04-09T00:44:03.232199",
+      "node_id": 15,
+      "temperature": 34.37,
+      "vibration": 0.129,
+      "power_draw": 96.36,
+      "humidity": 79.01,
+      "airflow": 0.83,
+      "fan_speed": 3790.4,
+      "node_status": "operational"
+    }
+  },
+  {
+    "timestamp": "2025-04-09T00:44:03.232199",
+    "node_id": 17,
+    "alerts": [
+      "\u26a1 High power draw"
+    ],
+    "rolling_avg_vibration": 0.643,
+    "raw": {
+      "timestamp": "2025-04-09T00:44:03.232199",
+      "node_id": 17,
+      "temperature": 51.36,
+      "vibration": 0.429,
+      "power_draw": 93.9,
+      "humidity": 41.49,
+      "airflow": 1.7,
+      "fan_speed": 1218.2,
+      "node_status": "operational"
+    }
+  },
+  {
+    "timestamp": "2025-04-09T00:44:03.232199",
+    "node_id": 18,
+    "alerts": [
+      "\ud83d\udd25 High temperature"
+    ],
+    "rolling_avg_vibration": 0.392,
+    "raw": {
+      "timestamp": "2025-04-09T00:44:03.232199",
+      "node_id": 18,
+      "temperature": 76.3,
+      "vibration": 0.543,
+      "power_draw": 32.29,
+      "humidity": 31.91,
+      "airflow": 1.43,
+      "fan_speed": 1707.2,
+      "node_status": "operational"
+    }
+  },
+  {
+    "timestamp": "2025-04-09T00:45:03.232199",
+    "node_id": 6,
+    "alerts": [
+      "\u26a1 High power draw"
+    ],
+    "rolling_avg_vibration": 0.473,
+    "raw": {
+      "timestamp": "2025-04-09T00:45:03.232199",
+      "node_id": 6,
+      "temperature": 72.73,
+      "vibration": 0.819,
+      "power_draw": 99.69,
+      "humidity": 64.06,
+      "airflow": 0.92,
+      "fan_speed": 3589.3,
+      "node_status": "maintenance"
+    }
+  },
+  {
+    "timestamp": "2025-04-09T00:45:03.232199",
+    "node_id": 19,
+    "alerts": [
+      "\u26a1 High power draw"
+    ],
+    "rolling_avg_vibration": 0.534,
+    "raw": {
+      "timestamp": "2025-04-09T00:45:03.232199",
+      "node_id": 19,
+      "temperature": 66.62,
+      "vibration": 0.919,
+      "power_draw": 92.95,
+      "humidity": 54.81,
+      "airflow": 0.68,
+      "fan_speed": 1131.7,
+      "node_status": "critical"
+    }
+  },
+  {
+    "timestamp": "2025-04-09T00:45:03.232199",
+    "node_id": 20,
+    "alerts": [
+      "\u26a1 High power draw"
+    ],
+    "rolling_avg_vibration": 0.454,
+    "raw": {
+      "timestamp": "2025-04-09T00:45:03.232199",
+      "node_id": 20,
+      "temperature": 72.97,
+      "vibration": 0.207,
+      "power_draw": 94.93,
+      "humidity": 51.02,
+      "airflow": 1.68,
+      "fan_speed": 3596.1,
+      "node_status": "operational"
+    }
+  },
+  {
+    "timestamp": "2025-04-09T00:46:03.232199",
+    "node_id": 1,
+    "alerts": [
+      "\u26a1 High power draw"
+    ],
+    "rolling_avg_vibration": 0.64,
+    "raw": {
+      "timestamp": "2025-04-09T00:46:03.232199",
+      "node_id": 1,
+      "temperature": 74.17,
+      "vibration": 0.576,
+      "power_draw": 96.47,
+      "humidity": 69.51,
+      "airflow": 0.65,
+      "fan_speed": 4695.4,
+      "node_status": "maintenance"
+    }
+  },
+  {
+    "timestamp": "2025-04-09T00:46:03.232199",
+    "node_id": 3,
+    "alerts": [
+      "\u26a1 High power draw"
+    ],
+    "rolling_avg_vibration": 0.333,
+    "raw": {
+      "timestamp": "2025-04-09T00:46:03.232199",
+      "node_id": 3,
+      "temperature": 31.5,
+      "vibration": 0.264,
+      "power_draw": 90.63,
+      "humidity": 66.2,
+      "airflow": 1.3,
+      "fan_speed": 667.9,
+      "node_status": "maintenance"
+    }
+  },
+  {
+    "timestamp": "2025-04-09T00:46:03.232199",
+    "node_id": 9,
+    "alerts": [
+      "\ud83d\udd25 High temperature"
+    ],
+    "rolling_avg_vibration": 0.475,
+    "raw": {
+      "timestamp": "2025-04-09T00:46:03.232199",
+      "node_id": 9,
+      "temperature": 77.58,
+      "vibration": 0.306,
+      "power_draw": 16.59,
+      "humidity": 44.95,
+      "airflow": 1.81,
+      "fan_speed": 1575.0,
+      "node_status": "critical"
+    }
+  },
+  {
+    "timestamp": "2025-04-09T00:46:03.232199",
+    "node_id": 14,
+    "alerts": [
+      "\ud83d\udd25 High temperature",
+      "\u26a1 High power draw"
+    ],
+    "rolling_avg_vibration": 0.461,
+    "raw": {
+      "timestamp": "2025-04-09T00:46:03.232199",
+      "node_id": 14,
+      "temperature": 76.07,
+      "vibration": 0.293,
+      "power_draw": 93.62,
+      "humidity": 85.97,
+      "airflow": 1.9,
+      "fan_speed": 1518.5,
+      "node_status": "operational"
+    }
+  },
+  {
+    "timestamp": "2025-04-09T00:46:03.232199",
+    "node_id": 17,
+    "alerts": [
+      "\ud83d\udd25 High temperature"
+    ],
+    "rolling_avg_vibration": 0.554,
+    "raw": {
+      "timestamp": "2025-04-09T00:46:03.232199",
+      "node_id": 17,
+      "temperature": 75.68,
+      "vibration": 0.429,
+      "power_draw": 47.35,
+      "humidity": 33.95,
+      "airflow": 1.92,
+      "fan_speed": 2911.5,
+      "node_status": "operational"
+    }
+  },
+  {
+    "timestamp": "2025-04-09T00:46:03.232199",
+    "node_id": 19,
+    "alerts": [
+      "\u26a1 High power draw"
+    ],
+    "rolling_avg_vibration": 0.616,
+    "raw": {
+      "timestamp": "2025-04-09T00:46:03.232199",
+      "node_id": 19,
+      "temperature": 36.17,
+      "vibration": 0.608,
+      "power_draw": 93.02,
+      "humidity": 86.52,
+      "airflow": 0.54,
+      "fan_speed": 4626.0,
+      "node_status": "critical"
+    }
+  },
+  {
+    "timestamp": "2025-04-09T00:47:03.232199",
+    "node_id": 2,
+    "alerts": [
+      "\u26a1 High power draw"
+    ],
+    "rolling_avg_vibration": 0.539,
+    "raw": {
+      "timestamp": "2025-04-09T00:47:03.232199",
+      "node_id": 2,
+      "temperature": 64.03,
+      "vibration": 0.591,
+      "power_draw": 93.67,
+      "humidity": 38.55,
+      "airflow": 1.61,
+      "fan_speed": 4128.5,
+      "node_status": "critical"
+    }
+  },
+  {
+    "timestamp": "2025-04-09T00:47:03.232199",
+    "node_id": 3,
+    "alerts": [
+      "\ud83d\udd25 High temperature"
+    ],
+    "rolling_avg_vibration": 0.421,
+    "raw": {
+      "timestamp": "2025-04-09T00:47:03.232199",
+      "node_id": 3,
+      "temperature": 76.71,
+      "vibration": 0.63,
+      "power_draw": 73.35,
+      "humidity": 71.73,
+      "airflow": 1.78,
+      "fan_speed": 932.0,
+      "node_status": "critical"
+    }
+  },
+  {
+    "timestamp": "2025-04-09T00:47:03.232199",
+    "node_id": 16,
+    "alerts": [
+      "\u26a1 High power draw"
+    ],
+    "rolling_avg_vibration": 0.431,
+    "raw": {
+      "timestamp": "2025-04-09T00:47:03.232199",
+      "node_id": 16,
+      "temperature": 53.34,
+      "vibration": 0.56,
+      "power_draw": 94.14,
+      "humidity": 81.22,
+      "airflow": 0.61,
+      "fan_speed": 1786.8,
+      "node_status": "maintenance"
+    }
+  },
+  {
+    "timestamp": "2025-04-09T00:47:03.232199",
+    "node_id": 17,
+    "alerts": [
+      "\u26a1 High power draw"
+    ],
+    "rolling_avg_vibration": 0.664,
+    "raw": {
+      "timestamp": "2025-04-09T00:47:03.232199",
+      "node_id": 17,
+      "temperature": 69.26,
+      "vibration": 0.698,
+      "power_draw": 95.74,
+      "humidity": 58.1,
+      "airflow": 1.42,
+      "fan_speed": 1637.2,
+      "node_status": "maintenance"
+    }
+  },
+  {
+    "timestamp": "2025-04-09T00:48:03.232199",
+    "node_id": 8,
+    "alerts": [
+      "\u26a1 High power draw"
+    ],
+    "rolling_avg_vibration": 0.44,
+    "raw": {
+      "timestamp": "2025-04-09T00:48:03.232199",
+      "node_id": 8,
+      "temperature": 51.01,
+      "vibration": 0.253,
+      "power_draw": 95.11,
+      "humidity": 57.38,
+      "airflow": 1.94,
+      "fan_speed": 2806.8,
+      "node_status": "critical"
+    }
+  },
+  {
+    "timestamp": "2025-04-09T00:48:03.232199",
+    "node_id": 12,
+    "alerts": [
+      "\u26a1 High power draw"
+    ],
+    "rolling_avg_vibration": 0.175,
+    "raw": {
+      "timestamp": "2025-04-09T00:48:03.232199",
+      "node_id": 12,
+      "temperature": 28.17,
+      "vibration": 0.014,
+      "power_draw": 98.57,
+      "humidity": 85.68,
+      "airflow": 0.91,
+      "fan_speed": 1904.4,
+      "node_status": "critical"
+    }
+  },
+  {
+    "timestamp": "2025-04-09T00:48:03.232199",
+    "node_id": 13,
+    "alerts": [
+      "\ud83d\udd25 High temperature"
+    ],
+    "rolling_avg_vibration": 0.676,
+    "raw": {
+      "timestamp": "2025-04-09T00:48:03.232199",
+      "node_id": 13,
+      "temperature": 75.05,
+      "vibration": 0.61,
+      "power_draw": 87.92,
+      "humidity": 59.06,
+      "airflow": 0.3,
+      "fan_speed": 3139.4,
+      "node_status": "operational"
+    }
+  },
+  {
+    "timestamp": "2025-04-09T00:48:03.232199",
+    "node_id": 18,
+    "alerts": [
+      "\ud83d\udd25 High temperature"
+    ],
+    "rolling_avg_vibration": 0.744,
+    "raw": {
+      "timestamp": "2025-04-09T00:48:03.232199",
+      "node_id": 18,
+      "temperature": 77.77,
+      "vibration": 0.565,
+      "power_draw": 27.7,
+      "humidity": 65.58,
+      "airflow": 1.66,
+      "fan_speed": 3815.7,
+      "node_status": "critical"
+    }
+  },
+  {
+    "timestamp": "2025-04-09T00:48:03.232199",
+    "node_id": 19,
+    "alerts": [
+      "\ud83d\udd25 High temperature"
+    ],
+    "rolling_avg_vibration": 0.724,
+    "raw": {
+      "timestamp": "2025-04-09T00:48:03.232199",
+      "node_id": 19,
+      "temperature": 75.65,
+      "vibration": 0.885,
+      "power_draw": 89.16,
+      "humidity": 72.14,
+      "airflow": 1.23,
+      "fan_speed": 1286.8,
+      "node_status": "maintenance"
+    }
+  },
+  {
+    "timestamp": "2025-04-09T00:49:03.232199",
+    "node_id": 11,
+    "alerts": [
+      "\ud83d\udd25 High temperature",
+      "\u26a1 High power draw"
+    ],
+    "rolling_avg_vibration": 0.755,
+    "raw": {
+      "timestamp": "2025-04-09T00:49:03.232199",
+      "node_id": 11,
+      "temperature": 79.7,
+      "vibration": 0.864,
+      "power_draw": 91.89,
+      "humidity": 80.32,
+      "airflow": 1.78,
+      "fan_speed": 1791.6,
+      "node_status": "maintenance"
+    }
+  },
+  {
+    "timestamp": "2025-04-09T00:49:03.232199",
+    "node_id": 17,
+    "alerts": [
+      "\ud83d\udd25 High temperature"
+    ],
+    "rolling_avg_vibration": 0.506,
+    "raw": {
+      "timestamp": "2025-04-09T00:49:03.232199",
+      "node_id": 17,
+      "temperature": 77.25,
+      "vibration": 0.253,
+      "power_draw": 65.82,
+      "humidity": 55.86,
+      "airflow": 0.62,
+      "fan_speed": 3772.8,
+      "node_status": "critical"
+    }
+  },
+  {
+    "timestamp": "2025-04-09T00:50:03.232199",
+    "node_id": 2,
+    "alerts": [
+      "\ud83d\udd25 High temperature",
+      "\u26a1 High power draw"
+    ],
+    "rolling_avg_vibration": 0.548,
+    "raw": {
+      "timestamp": "2025-04-09T00:50:03.232199",
+      "node_id": 2,
+      "temperature": 76.31,
+      "vibration": 0.096,
+      "power_draw": 97.5,
+      "humidity": 73.9,
+      "airflow": 0.29,
+      "fan_speed": 3409.2,
+      "node_status": "critical"
+    }
+  },
+  {
+    "timestamp": "2025-04-09T00:50:03.232199",
+    "node_id": 3,
+    "alerts": [
+      "\ud83d\udd25 High temperature"
+    ],
+    "rolling_avg_vibration": 0.659,
+    "raw": {
+      "timestamp": "2025-04-09T00:50:03.232199",
+      "node_id": 3,
+      "temperature": 79.94,
+      "vibration": 0.854,
+      "power_draw": 41.99,
+      "humidity": 80.78,
+      "airflow": 1.06,
+      "fan_speed": 4490.1,
+      "node_status": "operational"
+    }
+  },
+  {
+    "timestamp": "2025-04-09T00:50:03.232199",
+    "node_id": 11,
+    "alerts": [
+      "\ud83d\udd27 Abnormal vibration (avg)"
+    ],
+    "rolling_avg_vibration": 0.853,
+    "raw": {
+      "timestamp": "2025-04-09T00:50:03.232199",
+      "node_id": 11,
+      "temperature": 73.78,
+      "vibration": 0.668,
+      "power_draw": 73.25,
+      "humidity": 89.77,
+      "airflow": 1.63,
+      "fan_speed": 3815.3,
+      "node_status": "operational"
+    }
+  },
+  {
+    "timestamp": "2025-04-09T00:50:03.232199",
+    "node_id": 13,
+    "alerts": [
+      "\u26a1 High power draw"
+    ],
+    "rolling_avg_vibration": 0.672,
+    "raw": {
+      "timestamp": "2025-04-09T00:50:03.232199",
+      "node_id": 13,
+      "temperature": 64.26,
+      "vibration": 0.256,
+      "power_draw": 94.69,
+      "humidity": 82.41,
+      "airflow": 1.88,
+      "fan_speed": 3593.6,
+      "node_status": "maintenance"
+    }
+  },
+  {
+    "timestamp": "2025-04-09T00:51:03.232199",
+    "node_id": 11,
+    "alerts": [
+      "\ud83d\udd25 High temperature"
+    ],
+    "rolling_avg_vibration": 0.671,
+    "raw": {
+      "timestamp": "2025-04-09T00:51:03.232199",
+      "node_id": 11,
+      "temperature": 76.01,
+      "vibration": 0.036,
+      "power_draw": 60.13,
+      "humidity": 67.97,
+      "airflow": 0.6,
+      "fan_speed": 2810.6,
+      "node_status": "operational"
+    }
+  },
+  {
+    "timestamp": "2025-04-09T00:51:03.232199",
+    "node_id": 12,
+    "alerts": [
+      "\u26a1 High power draw"
+    ],
+    "rolling_avg_vibration": 0.286,
+    "raw": {
+      "timestamp": "2025-04-09T00:51:03.232199",
+      "node_id": 12,
+      "temperature": 73.22,
+      "vibration": 0.379,
+      "power_draw": 97.87,
+      "humidity": 44.32,
+      "airflow": 0.46,
+      "fan_speed": 2686.0,
+      "node_status": "operational"
+    }
+  },
+  {
+    "timestamp": "2025-04-09T00:51:03.232199",
+    "node_id": 13,
+    "alerts": [
+      "\ud83d\udd25 High temperature"
+    ],
+    "rolling_avg_vibration": 0.525,
+    "raw": {
+      "timestamp": "2025-04-09T00:51:03.232199",
+      "node_id": 13,
+      "temperature": 78.33,
+      "vibration": 0.217,
+      "power_draw": 62.31,
+      "humidity": 77.52,
+      "airflow": 1.82,
+      "fan_speed": 2256.8,
+      "node_status": "maintenance"
+    }
+  },
+  {
+    "timestamp": "2025-04-09T00:51:03.232199",
+    "node_id": 14,
+    "alerts": [
+      "\u26a1 High power draw"
+    ],
+    "rolling_avg_vibration": 0.592,
+    "raw": {
+      "timestamp": "2025-04-09T00:51:03.232199",
+      "node_id": 14,
+      "temperature": 63.42,
+      "vibration": 0.646,
+      "power_draw": 94.29,
+      "humidity": 38.48,
+      "airflow": 0.7,
+      "fan_speed": 4175.9,
+      "node_status": "operational"
+    }
+  },
+  {
+    "timestamp": "2025-04-09T00:51:03.232199",
+    "node_id": 19,
+    "alerts": [
+      "\ud83d\udd25 High temperature"
+    ],
+    "rolling_avg_vibration": 0.414,
+    "raw": {
+      "timestamp": "2025-04-09T00:51:03.232199",
+      "node_id": 19,
+      "temperature": 75.59,
+      "vibration": 0.402,
+      "power_draw": 84.5,
+      "humidity": 74.15,
+      "airflow": 0.38,
+      "fan_speed": 2505.7,
+      "node_status": "critical"
+    }
+  },
+  {
+    "timestamp": "2025-04-09T00:52:03.232199",
+    "node_id": 9,
+    "alerts": [
+      "\u26a1 High power draw"
+    ],
+    "rolling_avg_vibration": 0.626,
+    "raw": {
+      "timestamp": "2025-04-09T00:52:03.232199",
+      "node_id": 9,
+      "temperature": 36.36,
+      "vibration": 0.688,
+      "power_draw": 90.18,
+      "humidity": 66.12,
+      "airflow": 1.68,
+      "fan_speed": 1435.6,
+      "node_status": "operational"
+    }
+  },
+  {
+    "timestamp": "2025-04-09T00:52:03.232199",
+    "node_id": 17,
+    "alerts": [
+      "\ud83d\udd25 High temperature"
+    ],
+    "rolling_avg_vibration": 0.536,
+    "raw": {
+      "timestamp": "2025-04-09T00:52:03.232199",
+      "node_id": 17,
+      "temperature": 76.29,
+      "vibration": 0.729,
+      "power_draw": 87.6,
+      "humidity": 39.0,
+      "airflow": 1.61,
+      "fan_speed": 3545.2,
+      "node_status": "operational"
+    }
+  },
+  {
+    "timestamp": "2025-04-09T00:52:03.232199",
+    "node_id": 18,
+    "alerts": [
+      "\u26a1 High power draw"
+    ],
+    "rolling_avg_vibration": 0.515,
+    "raw": {
+      "timestamp": "2025-04-09T00:52:03.232199",
+      "node_id": 18,
+      "temperature": 25.06,
+      "vibration": 0.105,
+      "power_draw": 94.02,
+      "humidity": 57.46,
+      "airflow": 0.66,
+      "fan_speed": 2133.5,
+      "node_status": "critical"
+    }
+  },
+  {
+    "timestamp": "2025-04-09T00:52:03.232199",
+    "node_id": 19,
+    "alerts": [
+      "\ud83d\udd25 High temperature"
+    ],
+    "rolling_avg_vibration": 0.364,
+    "raw": {
+      "timestamp": "2025-04-09T00:52:03.232199",
+      "node_id": 19,
+      "temperature": 76.7,
+      "vibration": 0.141,
+      "power_draw": 25.85,
+      "humidity": 88.73,
+      "airflow": 0.62,
+      "fan_speed": 752.6,
+      "node_status": "maintenance"
+    }
+  },
+  {
+    "timestamp": "2025-04-09T00:53:03.232199",
+    "node_id": 5,
+    "alerts": [
+      "\ud83d\udd25 High temperature"
+    ],
+    "rolling_avg_vibration": 0.461,
+    "raw": {
+      "timestamp": "2025-04-09T00:53:03.232199",
+      "node_id": 5,
+      "temperature": 77.37,
+      "vibration": 0.454,
+      "power_draw": 49.67,
+      "humidity": 57.08,
+      "airflow": 1.24,
+      "fan_speed": 647.3,
+      "node_status": "critical"
+    }
+  },
+  {
+    "timestamp": "2025-04-09T00:53:03.232199",
+    "node_id": 12,
+    "alerts": [
+      "\ud83d\udd25 High temperature",
+      "\u26a1 High power draw"
+    ],
+    "rolling_avg_vibration": 0.458,
+    "raw": {
+      "timestamp": "2025-04-09T00:53:03.232199",
+      "node_id": 12,
+      "temperature": 77.72,
+      "vibration": 0.915,
+      "power_draw": 96.34,
+      "humidity": 87.28,
+      "airflow": 1.59,
+      "fan_speed": 1954.1,
+      "node_status": "critical"
+    }
+  },
+  {
+    "timestamp": "2025-04-09T00:53:03.232199",
+    "node_id": 15,
+    "alerts": [
+      "\ud83d\udd25 High temperature",
+      "\u26a1 High power draw",
+      "\ud83d\udd27 Abnormal vibration (avg)"
+    ],
+    "rolling_avg_vibration": 0.811,
+    "raw": {
+      "timestamp": "2025-04-09T00:53:03.232199",
+      "node_id": 15,
+      "temperature": 75.85,
+      "vibration": 0.953,
+      "power_draw": 93.04,
+      "humidity": 61.38,
+      "airflow": 1.33,
+      "fan_speed": 3866.4,
+      "node_status": "operational"
+    }
+  },
+  {
+    "timestamp": "2025-04-09T00:53:03.232199",
+    "node_id": 18,
+    "alerts": [
+      "\ud83d\udd25 High temperature"
+    ],
+    "rolling_avg_vibration": 0.555,
+    "raw": {
+      "timestamp": "2025-04-09T00:53:03.232199",
+      "node_id": 18,
+      "temperature": 78.1,
+      "vibration": 0.767,
+      "power_draw": 86.24,
+      "humidity": 39.54,
+      "airflow": 0.65,
+      "fan_speed": 2400.2,
+      "node_status": "critical"
+    }
+  },
+  {
+    "timestamp": "2025-04-09T00:54:03.232199",
+    "node_id": 10,
+    "alerts": [
+      "\ud83d\udd25 High temperature"
+    ],
+    "rolling_avg_vibration": 0.366,
+    "raw": {
+      "timestamp": "2025-04-09T00:54:03.232199",
+      "node_id": 10,
+      "temperature": 75.74,
+      "vibration": 0.092,
+      "power_draw": 19.47,
+      "humidity": 70.77,
+      "airflow": 1.54,
+      "fan_speed": 2358.8,
+      "node_status": "critical"
+    }
+  },
+  {
+    "timestamp": "2025-04-09T00:54:03.232199",
+    "node_id": 15,
+    "alerts": [
+      "\u26a1 High power draw"
+    ],
+    "rolling_avg_vibration": 0.666,
+    "raw": {
+      "timestamp": "2025-04-09T00:54:03.232199",
+      "node_id": 15,
+      "temperature": 38.66,
+      "vibration": 0.191,
+      "power_draw": 96.25,
+      "humidity": 88.33,
+      "airflow": 0.91,
+      "fan_speed": 1502.9,
+      "node_status": "maintenance"
+    }
+  },
+  {
+    "timestamp": "2025-04-09T00:54:03.232199",
+    "node_id": 19,
+    "alerts": [
+      "\ud83d\udd25 High temperature"
+    ],
+    "rolling_avg_vibration": 0.413,
+    "raw": {
+      "timestamp": "2025-04-09T00:54:03.232199",
+      "node_id": 19,
+      "temperature": 77.63,
+      "vibration": 0.777,
+      "power_draw": 19.07,
+      "humidity": 62.2,
+      "airflow": 1.24,
+      "fan_speed": 1160.8,
+      "node_status": "critical"
+    }
+  },
+  {
+    "timestamp": "2025-04-09T00:54:03.232199",
+    "node_id": 20,
+    "alerts": [
+      "\ud83d\udd25 High temperature"
+    ],
+    "rolling_avg_vibration": 0.362,
+    "raw": {
+      "timestamp": "2025-04-09T00:54:03.232199",
+      "node_id": 20,
+      "temperature": 79.11,
+      "vibration": 0.305,
+      "power_draw": 84.35,
+      "humidity": 74.95,
+      "airflow": 1.59,
+      "fan_speed": 543.5,
+      "node_status": "maintenance"
+    }
+  },
+  {
+    "timestamp": "2025-04-09T00:55:03.232199",
+    "node_id": 13,
+    "alerts": [
+      "\u26a1 High power draw"
+    ],
+    "rolling_avg_vibration": 0.711,
+    "raw": {
+      "timestamp": "2025-04-09T00:55:03.232199",
+      "node_id": 13,
+      "temperature": 50.47,
+      "vibration": 0.632,
+      "power_draw": 96.04,
+      "humidity": 47.33,
+      "airflow": 1.63,
+      "fan_speed": 605.7,
+      "node_status": "operational"
+    }
+  },
+  {
+    "timestamp": "2025-04-09T00:55:03.232199",
+    "node_id": 14,
+    "alerts": [
+      "\ud83d\udd25 High temperature",
+      "\u26a1 High power draw"
+    ],
+    "rolling_avg_vibration": 0.553,
+    "raw": {
+      "timestamp": "2025-04-09T00:55:03.232199",
+      "node_id": 14,
+      "temperature": 79.09,
+      "vibration": 0.897,
+      "power_draw": 96.4,
+      "humidity": 56.8,
+      "airflow": 1.63,
+      "fan_speed": 1543.8,
+      "node_status": "critical"
+    }
+  },
+  {
+    "timestamp": "2025-04-09T00:55:03.232199",
+    "node_id": 17,
+    "alerts": [
+      "\u26a1 High power draw"
+    ],
+    "rolling_avg_vibration": 0.428,
+    "raw": {
+      "timestamp": "2025-04-09T00:55:03.232199",
+      "node_id": 17,
+      "temperature": 26.58,
+      "vibration": 0.041,
+      "power_draw": 99.03,
+      "humidity": 79.93,
+      "airflow": 0.35,
+      "fan_speed": 1552.1,
+      "node_status": "operational"
+    }
+  },
+  {
+    "timestamp": "2025-04-09T00:56:03.232199",
+    "node_id": 2,
+    "alerts": [
+      "\u26a1 High power draw"
+    ],
+    "rolling_avg_vibration": 0.6,
+    "raw": {
+      "timestamp": "2025-04-09T00:56:03.232199",
+      "node_id": 2,
+      "temperature": 72.5,
+      "vibration": 0.694,
+      "power_draw": 91.75,
+      "humidity": 32.63,
+      "airflow": 1.07,
+      "fan_speed": 2123.9,
+      "node_status": "critical"
+    }
+  },
+  {
+    "timestamp": "2025-04-09T00:56:03.232199",
+    "node_id": 7,
+    "alerts": [
+      "\u26a1 High power draw"
+    ],
+    "rolling_avg_vibration": 0.46,
+    "raw": {
+      "timestamp": "2025-04-09T00:56:03.232199",
+      "node_id": 7,
+      "temperature": 71.25,
+      "vibration": 0.189,
+      "power_draw": 94.39,
+      "humidity": 78.08,
+      "airflow": 1.84,
+      "fan_speed": 1799.0,
+      "node_status": "critical"
+    }
+  },
+  {
+    "timestamp": "2025-04-09T00:56:03.232199",
+    "node_id": 10,
+    "alerts": [
+      "\u26a1 High power draw"
+    ],
+    "rolling_avg_vibration": 0.489,
+    "raw": {
+      "timestamp": "2025-04-09T00:56:03.232199",
+      "node_id": 10,
+      "temperature": 67.69,
+      "vibration": 0.945,
+      "power_draw": 97.01,
+      "humidity": 68.75,
+      "airflow": 0.63,
+      "fan_speed": 2511.4,
+      "node_status": "maintenance"
+    }
+  },
+  {
+    "timestamp": "2025-04-09T00:56:03.232199",
+    "node_id": 14,
+    "alerts": [
+      "\ud83d\udd25 High temperature"
+    ],
+    "rolling_avg_vibration": 0.541,
+    "raw": {
+      "timestamp": "2025-04-09T00:56:03.232199",
+      "node_id": 14,
+      "temperature": 78.64,
+      "vibration": 0.588,
+      "power_draw": 23.71,
+      "humidity": 51.59,
+      "airflow": 1.49,
+      "fan_speed": 1199.3,
+      "node_status": "operational"
+    }
+  },
+  {
+    "timestamp": "2025-04-09T00:56:03.232199",
+    "node_id": 16,
+    "alerts": [
+      "\u26a1 High power draw"
+    ],
+    "rolling_avg_vibration": 0.385,
+    "raw": {
+      "timestamp": "2025-04-09T00:56:03.232199",
+      "node_id": 16,
+      "temperature": 22.8,
+      "vibration": 0.01,
+      "power_draw": 96.97,
+      "humidity": 51.25,
+      "airflow": 0.97,
+      "fan_speed": 4035.2,
+      "node_status": "maintenance"
+    }
+  },
+  {
+    "timestamp": "2025-04-09T00:56:03.232199",
+    "node_id": 18,
+    "alerts": [
+      "\u26a1 High power draw"
+    ],
+    "rolling_avg_vibration": 0.464,
+    "raw": {
+      "timestamp": "2025-04-09T00:56:03.232199",
+      "node_id": 18,
+      "temperature": 41.73,
+      "vibration": 0.638,
+      "power_draw": 95.48,
+      "humidity": 35.78,
+      "airflow": 0.57,
+      "fan_speed": 1203.1,
+      "node_status": "operational"
+    }
+  },
+  {
+    "timestamp": "2025-04-09T00:57:03.232199",
+    "node_id": 5,
+    "alerts": [
+      "\ud83d\udd25 High temperature"
+    ],
+    "rolling_avg_vibration": 0.527,
+    "raw": {
+      "timestamp": "2025-04-09T00:57:03.232199",
+      "node_id": 5,
+      "temperature": 79.15,
+      "vibration": 0.999,
+      "power_draw": 29.57,
+      "humidity": 43.49,
+      "airflow": 1.79,
+      "fan_speed": 1668.1,
+      "node_status": "maintenance"
+    }
+  },
+  {
+    "timestamp": "2025-04-09T00:57:03.232199",
+    "node_id": 6,
+    "alerts": [
+      "\u26a1 High power draw"
+    ],
+    "rolling_avg_vibration": 0.63,
+    "raw": {
+      "timestamp": "2025-04-09T00:57:03.232199",
+      "node_id": 6,
+      "temperature": 53.7,
+      "vibration": 0.6,
+      "power_draw": 98.99,
+      "humidity": 77.74,
+      "airflow": 1.5,
+      "fan_speed": 4627.4,
+      "node_status": "maintenance"
+    }
+  },
+  {
+    "timestamp": "2025-04-09T00:57:03.232199",
+    "node_id": 10,
+    "alerts": [
+      "\ud83d\udd25 High temperature"
+    ],
+    "rolling_avg_vibration": 0.518,
+    "raw": {
+      "timestamp": "2025-04-09T00:57:03.232199",
+      "node_id": 10,
+      "temperature": 77.46,
+      "vibration": 0.269,
+      "power_draw": 41.12,
+      "humidity": 73.79,
+      "airflow": 1.16,
+      "fan_speed": 4705.5,
+      "node_status": "maintenance"
+    }
+  },
+  {
+    "timestamp": "2025-04-09T00:57:03.232199",
+    "node_id": 13,
+    "alerts": [
+      "\u26a1 High power draw"
+    ],
+    "rolling_avg_vibration": 0.738,
+    "raw": {
+      "timestamp": "2025-04-09T00:57:03.232199",
+      "node_id": 13,
+      "temperature": 64.07,
+      "vibration": 0.591,
+      "power_draw": 98.83,
+      "humidity": 68.82,
+      "airflow": 0.45,
+      "fan_speed": 2526.0,
+      "node_status": "maintenance"
+    }
+  },
+  {
+    "timestamp": "2025-04-09T00:57:03.232199",
+    "node_id": 14,
+    "alerts": [
+      "\u26a1 High power draw"
+    ],
+    "rolling_avg_vibration": 0.627,
+    "raw": {
+      "timestamp": "2025-04-09T00:57:03.232199",
+      "node_id": 14,
+      "temperature": 23.23,
+      "vibration": 0.513,
+      "power_draw": 98.72,
+      "humidity": 49.44,
+      "airflow": 0.35,
+      "fan_speed": 3762.4,
+      "node_status": "maintenance"
+    }
+  }
+]

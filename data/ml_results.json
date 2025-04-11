@@ -1,0 +1,162 @@
+[
+  {
+    "node_id": 1,
+    "temperature": 70.23,
+    "power_draw": 72.93,
+    "vibration": 0.44,
+    "predicted_label": "motor_overheat",
+    "risk_score": 0.499
+  },
+  {
+    "node_id": 2,
+    "temperature": 59.55,
+    "power_draw": 72.38,
+    "vibration": 0.48,
+    "predicted_label": "vibration_failure",
+    "risk_score": 0.358
+  },
+  {
+    "node_id": 3,
+    "temperature": 55.96,
+    "power_draw": 79.87,
+    "vibration": 0.47,
+    "predicted_label": "vibration_failure",
+    "risk_score": 0.429
+  },
+  {
+    "node_id": 4,
+    "temperature": 60.5,
+    "power_draw": 72.13,
+    "vibration": 0.5,
+    "predicted_label": "vibration_failure",
+    "risk_score": 0.385
+  },
+  {
+    "node_id": 5,
+    "temperature": 55.96,
+    "power_draw": 72.52,
+    "vibration": 0.45,
+    "predicted_label": "vibration_failure",
+    "risk_score": 0.355
+  },
+  {
+    "node_id": 6,
+    "temperature": 78.15,
+    "power_draw": 43.6,
+    "vibration": 0.64,
+    "predicted_label": "motor_overheat",
+    "risk_score": 0.995
+  },
+  {
+    "node_id": 7,
+    "temperature": 68.24,
+    "power_draw": 68.3,
+    "vibration": 0.53,
+    "predicted_label": "motor_overheat",
+    "risk_score": 0.48
+  },
+  {
+    "node_id": 8,
+    "temperature": 68.48,
+    "power_draw": 66.46,
+    "vibration": 0.39,
+    "predicted_label": "motor_overheat",
+    "risk_score": 0.475
+  },
+  {
+    "node_id": 9,
+    "temperature": 58.08,
+    "power_draw": 83.83,
+    "vibration": 0.57,
+    "predicted_label": "overload",
+    "risk_score": 0.441
+  },
+  {
+    "node_id": 10,
+    "temperature": 73.05,
+    "power_draw": 61.35,
+    "vibration": 0.48,
+    "predicted_label": "motor_overheat",
+    "risk_score": 0.464
+  },
+  {
+    "node_id": 11,
+    "temperature": 67.44,
+    "power_draw": 53.8,
+    "vibration": 0.61,
+    "predicted_label": "motor_overheat",
+    "risk_score": 0.401
+  },
+  {
+    "node_id": 12,
+    "temperature": 55.88,
+    "power_draw": 89.01,
+    "vibration": 0.41,
+    "predicted_label": "overload",
+    "risk_score": 0.448
+  },
+  {
+    "node_id": 13,
+    "temperature": 49.59,
+    "power_draw": 71.92,
+    "vibration": 0.65,
+    "predicted_label": "vibration_failure",
+    "risk_score": 0.457
+  },
+  {
+    "node_id": 14,
+    "temperature": 60.16,
+    "power_draw": 71.27,
+    "vibration": 0.59,
+    "predicted_label": "vibration_failure",
+    "risk_score": 0.385
+  },
+  {
+    "node_id": 15,
+    "temperature": 55.58,
+    "power_draw": 88.15,
+    "vibration": 0.47,
+    "predicted_label": "overload",
+    "risk_score": 0.429
+  },
+  {
+    "node_id": 16,
+    "temperature": 67.96,
+    "power_draw": 75.41,
+    "vibration": 0.47,
+    "predicted_label": "motor_overheat",
+    "risk_score": 0.426
+  },
+  {
+    "node_id": 17,
+    "temperature": 70.85,
+    "power_draw": 78.44,
+    "vibration": 0.46,
+    "predicted_label": "motor_overheat",
+    "risk_score": 0.471
+  },
+  {
+    "node_id": 18,
+    "temperature": 65.68,
+    "power_draw": 72.79,
+    "vibration": 0.44,
+    "predicted_label": "vibration_failure",
+    "risk_score": 0.363
+  },
+  {
+    "node_id": 19,
+    "temperature": 61.38,
+    "power_draw": 80.86,
+    "vibration": 0.44,
+    "predicted_label": "vibration_failure",
+    "risk_score": 0.35
+  },
+  {
+    "node_id": 20,
+    "temperature": 57.17,
+    "power_draw": 83.99,
+    "vibration": 0.56,
+    "predicted_label": "overload",
+    "risk_score": 0.43
+  }
+]

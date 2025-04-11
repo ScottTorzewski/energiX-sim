@@ -1,0 +1,13 @@
+# compile verilog/system verilog design source files
+sv xil_defaultlib  \
+"../../../../ml_inference_fpga.srcs/sources_1/new/decision_tree_node_logic.sv" \
+"../../../../ml_inference_fpga.srcs/sources_1/new/input_buffer.sv" \
+"../../../../ml_inference_fpga.srcs/sources_1/new/main.sv" \
+"../../../../ml_inference_fpga.srcs/sources_1/new/risk_score_generator.sv" \
+"../../../../ml_inference_fpga.srcs/sim_1/new/main_tb.sv" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort
