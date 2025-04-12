@@ -16,8 +16,8 @@ This dashboard visualizes both software-based and hardware-accelerated inference
 """)
 
 # Load Data
-ml_file = "ml_results.json"
-fpga_file = "results.txt"
+ml_file = "dashboard/ml_results.json"
+fpga_file = "dashboard/results.txt"
 
 @st.cache_data
 def load_data():
