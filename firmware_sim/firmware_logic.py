@@ -13,7 +13,7 @@ DATA_OUT = os.path.join(BASE_DIR, "data", "edge_events.json")
 with open(DATA_IN, "r") as f:
     sensor_data = json.load(f)
 
-# Rolling history for average calculations (simulated firmware buffer)
+# Rolling history for avg calculations
 vibration_history = {}
 TEMP_THRESHOLD = 75
 POWER_THRESHOLD = 90
