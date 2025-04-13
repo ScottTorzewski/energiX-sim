@@ -75,7 +75,7 @@ with col2:
     st.subheader("FPGA Risk Score per Node")
     st.bar_chart(filtered.set_index("node_id")["Risk"] / 1000)
 
-# Extra Analysis
+# Overlap Comparison
 st.markdown("### 📊 Risk Score Distribution Comparison")
 fig, ax = plt.subplots()
 ax.hist(filtered["risk_score"], bins=15, alpha=0.6, label="ML Risk", color="skyblue")
