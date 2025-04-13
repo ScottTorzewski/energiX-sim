@@ -22,10 +22,10 @@
 module decision_tree_node_logic (
     input wire clk,
     input wire rst,
-    input wire [15:0] temperature,     // Q8.8 fixed point
-    input wire [15:0] power_draw,      // Q8.8
-    input wire [15:0] vibration,       // Q8.8
-    output reg [2:0] label_class       // Encoded label (3-bit for up to 8 classes)
+    input wire [15:0] temperature,     
+    input wire [15:0] power_draw,      
+    input wire [15:0] vibration,       
+    output reg [2:0] label_class       
 );
 
     // Label Encoding:
