@@ -9,7 +9,7 @@ NUM_NODES = 20
 DURATION_MINUTES = 60  # 1 hour of data
 INTERVAL_SECONDS = 60  # one data point per minute
 
-# Output path (one level up from sensors/)
+# Output path 
 BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 DATA_DIR = os.path.join(BASE_DIR, "data")
 os.makedirs(DATA_DIR, exist_ok=True)
