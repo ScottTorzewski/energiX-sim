@@ -15,7 +15,7 @@ DATA_IN = os.path.join(BASE_DIR, "data", "edge_events.json")
 MODEL_OUT = os.path.join(BASE_DIR, "ml_engine", "rf_model.joblib")
 OUTPUT_JSON = os.path.join(BASE_DIR, "data", "ml_results.json")
 
-# Simulated label generation (normally you’d get this from a real dataset)
+# Simulated data generation
 failure_map = {
     "🔥 High temperature": "motor_overheat",  # Reduced occurrence to not overrepresent motor_overheat
     "⚡ High power draw": "overload",
