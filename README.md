@@ -4,12 +4,6 @@
 
 ---
 
-## 🧭 System Overview
-
-![EnergiX Flow Diagram](data/diagram.png)
-
----
-
 ## 💡 Features
 - Sensor simulation pipeline with realistic data
 - ML model (RandomForest) trained and evaluated
