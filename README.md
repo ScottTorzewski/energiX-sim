@@ -35,16 +35,16 @@ Visual dashboard comparing:
 ---
 
 ## 🔄 How to Run
-### Requirements
-- Python 3.10+
-- Recommended to install using `venv` and `pip install -r requirements.txt`
 
-Open a new terminal:
+### Requirements
+- This project requires **Python 3.11** due to compatibility issues with `scikit-learn`.  
+  Python 3.13 is **not yet supported** and will cause installation errors.  
+  👉 [Download Python 3.11 here](https://www.python.org/downloads/release/python-3110/)
+
+### Setup Instructions
+
 ```bash
 git clone https://github.com/ScottTorzewski/energiX-sim.git
 cd energiX-sim
-python -m venv .venv
-.venv\Scripts\activate
 pip install -r requirements.txt
 streamlit run dashboard/dashboard_app.py
-
